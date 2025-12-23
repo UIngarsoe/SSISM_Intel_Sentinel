@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you utilize the SSISM 10-Layer Matrix or the Digital Trust Score logic in your research or analysis, please cite it as follows."
+authors:
+  - family-names: "Ingar Soe"
+    given-names: "U"
+    alias: "Sentinel-01"
+title: "SSISM Sentinel: Academic Doctrine & Logic Gate Framework"
+version: 1.0.0
+date-released: 2025-12-23
+url: "https://github.com/UIngarsoe/SSISM_Intel_Sentinel"
+keywords:
+  - intelligence-analysis
+  - myanmar
+  - osint
+  - logistic-regression
+  - strategic-forecasting
+abstract: >-
+  A mathematical and structural framework for intelligence analysis in hybrid-warfare zones,
+  focusing on systemic stress-testing over traditional prediction.
