@@ -1,3 +1,16 @@
+
+# 🛰️ SSISM EVENT INTELLIGENCE DOSSIER  
+## Convergence Validation
+
+**Dossier ID:** SSISM_EID_2025_12_23_THA_MMR_DRONE  
+**Title:** *Illicit Drone Procurement, Cross-Border Militarisation, and Civilian Threat Escalation in Myanmar*  
+**Region:** Thailand • Myanmar  
+**Date:** 24 December 2025  
+**Prepared by:** SSISM Intelligence Cell  
+**Doctrine:** SSISM Sentinel • Multi-Source Correlation  
+**Classification:** Public Intelligence Analysis (Non-Advocacy)  
+**Status:** ✅ System Verified — Ahead of the Game
+
 SSISM EVENT INTELLIGENCE DOSSIER: CONVERGENCE VALIDATION
 
 Dossier ID: SSISM_EID_2025_12_23_THA_MMR_DRONE
