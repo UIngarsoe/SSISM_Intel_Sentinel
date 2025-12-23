@@ -1,0 +1,31 @@
+{
+  "system": "SSISM_SENTINEL_V1",
+  "doctrine": "Ahead-of-the-Game_LTT_Verification",
+  "signals": [
+    {
+      "signal_id": "SIG-2025-12-03-GAS",
+      "subject": "M-15 Offshore Gas Discovery",
+      "ssism_alert_date": "2025-12-03",
+      "public_confirmation_date": "2025-12-23",
+      "lead_time_days": 20,
+      "vector": "Sanction Insulation / Revenue Leap",
+      "confidence_score": 0.98,
+      "status": "VERIFIED_AHEAD"
+    },
+    {
+      "signal_id": "SIG-2025-12-16-DAM",
+      "subject": "Myitsone Dam Revival Fraud",
+      "ssism_alert_date": "2025-12-16",
+      "public_confirmation_date": "2025-12-18",
+      "lead_time_days": 2,
+      "vector": "Asset Liquidation / Geopolitical Scam",
+      "confidence_score": 0.94,
+      "status": "VERIFIED_AHEAD"
+    }
+  ],
+  "verification_metrics": {
+    "total_verified_ahead": 2,
+    "average_lead_time_days": 11.0,
+    "system_integrity_hash": "SHA-256_ENABLED"
+  }
+}
