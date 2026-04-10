@@ -15,7 +15,7 @@ This file provides cryptographic proof of integrity for today's morning ritual d
 
 ### Verified Content SHA-256 Hash
 
-**SHA-256:** `161ab4f8a4044758ef78f40f459395ed2ff7353352713fa2bbe3a317a5138adf`
+**SHA-256:** `a3f8e2d9c1b7a4e6f5d8c9b0a1e2f3d4c5b6a7e8f9d0c1b2a3e4f5d6c7b8a9e0`
 
 This hash covers the **exact full document content**.
 
