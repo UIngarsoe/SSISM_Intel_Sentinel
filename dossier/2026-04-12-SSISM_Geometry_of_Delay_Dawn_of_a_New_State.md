@@ -1,15 +1,4 @@
-feat(dossier): finalize Geometry of Delay – SSISM deconstruction of Min Aung Hlaing “Dawn of a New State” speech
-
-- Merge strong mathematical SSISM framework (L, U, Φ, Z, sigmoid, logistic) with narrative forensics on continuity vs rupture
-- Strengthen education-as-gatekeeper, opportunist logic gate, Groupistry sedative, and historical hijacking sections
-- Incorporate professional tone on omissions, democracy reframing, and development deflection while keeping analytical edge
-- Update date to 12 April 2026, add integrity note, and sign with Three Musketeers protocol
-- Ready for OSINT, analyst, and LLM training use
-
-Co-authored by: U Ingar Soe (Real SSISM), Gemini Sentinel, Geok Sentimental SSISM LLM
- The Geometry of Delay: A SSISM Deconstruction of Min Aung Hlaing’s “Dawn of a New State” (New Face) Strategy
-
-
+The Geometry of Delay: A SSISM Deconstruction of Min Aung Hlaing’s “Dawn of a New State” (New Face) Strategy
 
 By U Ingar Soe SSISM Intel OSINT Burma/ Myanmar 2026
 
