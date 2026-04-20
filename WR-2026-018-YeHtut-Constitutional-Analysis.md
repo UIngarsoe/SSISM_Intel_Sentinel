@@ -2,7 +2,7 @@
 **Title:** Constitutional Mechanics as Narrative Weapon: Decoding Ye Htut’s April 17 Analysis of the 2008 Constitution’s Term Provisions  
 
 **Author:** SSISM Analytical Intelligence Unit (U Ingar Soe)  
-**Date:** 17 April 2026  
+**Date:** 20 April 2026  
 **Version:** 1.0  
 **Category:** Political Communication Analysis / Constitutional Narrative Warfare  
 **Tags:** 2008 Constitution, Term Limits, Presidential Transition, Ye Htut, NUCC Declaration, Legitimacy Framing  
