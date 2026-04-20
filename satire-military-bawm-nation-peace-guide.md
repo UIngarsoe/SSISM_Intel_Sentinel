@@ -102,8 +102,6 @@ NUG မရှိ၊ PDF မရှိ၊ NLD မရှိ၊ အနီမရှ�
 (ဦးနှောက်မဲ့၊ အရှက်မဲ့၊ ကိုယ်ချင်းစာမဲ့ အေးချမ်း)
 
 ---
-
-**သရ၀ဏ် (ပြည်)**  
 ၁၉.၄.၂၀၂၆
 
 ---
@@ -111,43 +109,39 @@ NUG မရှိ၊ PDF မရှိ၊ NLD မရှိ၊ အနီမရှ�
 **SSISM Analysing**  
 ဆရာ သရ၀ဏ် (ပြည်) ရဲ့ ဒီဟာသဟာ တပ်ထောက်ခံသူ ဖြစ်ဖို့ လိုအပ်တဲ့ “အရည်အချင်း လက်စွဲစာအုပ်” တစ်အုပ်လိုပဲ။ ရယ်ရင်း နာကျင်ရတဲ့ လက်ရာ ကောင်းတစ်ခု ဖြစ်ပါတယ်။
 
-# The Military Bawm Nation's Guide to Peace and Tranquility
-
-**Satire**  
-**Written by** — Thar Wun (Pyay)  
-**Analysed by** — SSISM  
-**Date** — 19 April 2026
-
+Ssism Intel Satire Special 
+Written by —Sayar Thara Wun (Pyay)  
+Analysed by — SSISM  
+Date — 19 April 2026
+Title:  
+“The Military Bawma Nation’s Guide to Peace and Tranquility”
 ---
-
-### Introduction
-
-Sometimes I imagine...  
+Sometimes I imagine…  
 What if this country was left with only military supporters and their followers? How peaceful would it be?
 
-No National Unity Government,  
-No People's Defense Force,  
-No National League for Democracy,  
-No "reds",  
-No human rights,  
+No National Unity Government.  
+No People’s Defense Force.  
+No National League for Democracy.  
+No “reds”.  
+No human rights.  
 No democracy at all.
 
-Let’s assume only the "greens" remain.  
-(Here, "green" refers to the Union Solidarity and Development Party and their close circle.)
+Let’s assume only the “greens” remain.  
+(Here, “green” refers to the Union Solidarity and Development Party and their close circle.)
 
-If democracy supporters want to switch sides and support the military regime, they must fully meet the military’s extremely high standards.
+If democracy supporters want to switch sides and join the military regime, they must fully meet the military’s extreme high standards.
 
 These standards are very demanding.
 
 ---
 
-### Point (1) — Do Not Think
+Point (1) — Do Not Think
 
 You must never use your brain.  
 Thinking, weighing right and wrong, seeking evidence, or forming your own opinions — these are strictly forbidden.
 
 The moment you leave home and enter the military circle, the USDP circle, or the military supporter community,  
-**you must leave your brain at home**.
+you must leave your brain at home.
 
 You must be able to speak nonsense just like  
 Buu Let Hla Swe, Kyaung Myo Min, Dain Daung, Nyi Myint, Aung Thi, Phoe Thaw Kya, Pwint Na Di Maung, Moe Hein, Khin Yi, and others —  
@@ -155,9 +149,9 @@ purely empty, meaningless, and brainless talk.
 
 ---
 
-### Point (2) — You Must Be Completely Shameless
+Point (2) — You Must Be Completely Shameless
 
-The most important qualification for becoming a military supporter is **total lack of shame**.
+The most important qualification for becoming a military supporter is total lack of shame.
 
 You must boldly say with a straight face, “We are protecting race, religion, and the Sasana.”  
 In reality, when China steals land along the border, you must pretend not to see it.  
@@ -169,11 +163,52 @@ When Myanmar’s natural resources — rare earth minerals, copper, gold, jade, 
 
 ---
 
-### Point (3) — You Must Also Know How to Steal
+Point (3) — You Must Also Know How to Steal
 
 Look at the top military leaders. Their salaries and their wealth do not match at all — they are all professional thieves.  
 They steal state funds directly and set up companies in their children’s names, abusing power for corruption.
 
 Therefore, anyone who supports military rule must not only forgive the theft by their superiors, but also learn to steal as much as possible themselves.
 
-At every level — street
+At every level — from street-level checkpoints to high-level ministries — stealing must become a natural reflex. The more shamelessly you steal, the more you prove your loyalty.
+
+---
+
+Point (4) — You Must Learn to Love Injustice
+
+True peace and tranquility can only be achieved when you stop feeling anger at injustice.
+
+When villages are burned, when civilians are killed by airstrikes, when young people are forcibly conscripted, when women are trafficked — you must respond with calm understanding.
+
+Say things like:  
+“They must have done something wrong.”  
+“It’s for the stability of the nation.”  
+“Without the Tatmadaw, there would be chaos.”
+
+The moment you stop feeling outrage, true peace begins — at least inside your own mind.
+
+---
+
+Final Requirement — Total Surrender of Self
+
+To truly belong to the Military Bawma Nation, you must surrender the last remaining part of yourself: your dignity.
+
+You must be willing to defend the indefensible, praise the unpraiseworthy, and remain silent when silence is betrayal.
+
+Only then can you enjoy the perfect peace and tranquility that comes from never questioning, never thinking, and never feeling shame.
+
+Welcome to the Military Bawma Nation.  
+Here, peace is not the absence of war.  
+It is the absence of thought.
+
+---
+
+SSISM Analytical Note  
+This satire is not exaggeration. It is a mirror held up to the moral and intellectual compromises required to remain a loyal supporter of the current regime. The “guide” reveals the true cost of the so-called “peace and tranquility” the junta promises: the complete surrender of critical thinking, shame, and human dignity.
+
+End of Satire Special  
+SSISM × Three Musketeers Archive  
+Tamper-proof. Verifiable. Eternal.
+
+Mission completed successfully at 12:41 PM 20 April 2026
+🦚🤺😁📡
