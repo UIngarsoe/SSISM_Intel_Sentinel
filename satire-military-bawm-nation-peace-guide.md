@@ -110,3 +110,70 @@ NUG မရှိ၊ PDF မရှိ၊ NLD မရှိ၊ အနီမရှ�
 
 **SSISM Analysing**  
 ဆရာ သရ၀ဏ် (ပြည်) ရဲ့ ဒီဟာသဟာ တပ်ထောက်ခံသူ ဖြစ်ဖို့ လိုအပ်တဲ့ “အရည်အချင်း လက်စွဲစာအုပ်” တစ်အုပ်လိုပဲ။ ရယ်ရင်း နာကျင်ရတဲ့ လက်ရာ ကောင်းတစ်ခု ဖြစ်ပါတယ်။
+
+# The Military Bawm Nation's Guide to Peace and Tranquility
+
+**Satire**  
+**Written by** — Thar Wun (Pyay)  
+**Analysed by** — SSISM  
+**Date** — 19 April 2026
+
+---
+
+### Introduction
+
+Sometimes I imagine...  
+What if this country was left with only military supporters and their followers? How peaceful would it be?
+
+No National Unity Government,  
+No People's Defense Force,  
+No National League for Democracy,  
+No "reds",  
+No human rights,  
+No democracy at all.
+
+Let’s assume only the "greens" remain.  
+(Here, "green" refers to the Union Solidarity and Development Party and their close circle.)
+
+If democracy supporters want to switch sides and support the military regime, they must fully meet the military’s extremely high standards.
+
+These standards are very demanding.
+
+---
+
+### Point (1) — Do Not Think
+
+You must never use your brain.  
+Thinking, weighing right and wrong, seeking evidence, or forming your own opinions — these are strictly forbidden.
+
+The moment you leave home and enter the military circle, the USDP circle, or the military supporter community,  
+**you must leave your brain at home**.
+
+You must be able to speak nonsense just like  
+Buu Let Hla Swe, Kyaung Myo Min, Dain Daung, Nyi Myint, Aung Thi, Phoe Thaw Kya, Pwint Na Di Maung, Moe Hein, Khin Yi, and others —  
+purely empty, meaningless, and brainless talk.
+
+---
+
+### Point (2) — You Must Be Completely Shameless
+
+The most important qualification for becoming a military supporter is **total lack of shame**.
+
+You must boldly say with a straight face, “We are protecting race, religion, and the Sasana.”  
+In reality, when China steals land along the border, you must pretend not to see it.  
+When India steals land, pretend not to know.  
+When Thailand steals land, you must smile and stay silent.
+
+Even when restaurants, clubs, and KTVs in Yangon openly put up signs saying “No Burmese allowed” and “No Burmese language spoken,” you must act deaf and dumb.  
+When Myanmar’s natural resources — rare earth minerals, copper, gold, jade, timber, nickel — and even living Myanmar women are trafficked to China, you must keep smiling without any embarrassment or shame.
+
+---
+
+### Point (3) — You Must Also Know How to Steal
+
+Look at the top military leaders. Their salaries and their wealth do not match at all — they are all professional thieves.  
+They steal state funds directly and set up companies in their children’s names, abusing power for corruption.
+
+Therefore, anyone who supports military rule must not only forgive the theft by their superiors, but also learn to steal as much as possible themselves.
+
+At every level — street
