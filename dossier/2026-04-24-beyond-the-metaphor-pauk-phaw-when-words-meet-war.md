@@ -1,6 +1,6 @@
 # Beyond the Metaphor: When “Pauk-Phaw” Meets the Sound of Drones
 
-**By: A Burmese Academic Voice**  
+**By: U Ingar Soe**
 **Date: April 24, 2026**
 
 ---
