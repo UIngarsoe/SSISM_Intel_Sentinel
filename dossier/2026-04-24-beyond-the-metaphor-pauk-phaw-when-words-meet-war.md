@@ -119,3 +119,8 @@ A Burmese word that once meant shared birth is now passing through the filter of
 If the phrase is to endure with dignity, it must do more than describe a past. It must help shape a present in which civilians feel protected rather than peripheral.
 
 Only then can a metaphor of shared birth sound credible under an unsettled sky.
+Integrity (SHA-256):
+<59108f80eb988d94ae6eaf318f5046d8fed84a0e12cc0c9097579f7535dbe19d  2026-04-24-beyond-the-metaphor-pauk-phaw-when-words-meet-war.md>
+
+🦚🤺
+Mission completed successfully at 5:37 PM 24 April 2026
