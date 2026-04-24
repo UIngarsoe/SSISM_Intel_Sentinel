@@ -53,7 +53,7 @@ For civilians and the international community, this means the conflict has moved
 This briefing utilizes the **SSISM Non-Predictive Pattern Model**. It analyzes command background, legal decree structures (ML3), and conflict geography to identify the underlying logic of state behavior.
 ---
 ## 🔐 Integrity Verification (Pending Ritual)
-**SHA-256:** `<insert_hash_here>`  
+**SHA-256:** `8446e64ab6a6b56bad70003088d6d4cf8cb902db9615bde010ce467bf72551ba`  
 **Verification Command:** `curl -sL -o verify.md [RAW_URL] && sha256sum verify.md`
 ---
 **🦚 SSISM Analytical Intelligence Unit** *What is structurally visible today explains operational behavior tomorrow.*
