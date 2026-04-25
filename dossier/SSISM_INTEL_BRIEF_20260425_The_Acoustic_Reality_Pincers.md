@@ -46,12 +46,13 @@ To counter this, the **SSISM Doctrine** recommends:
 ## 📜 Methodological Note
 This briefing follows the **SSISM Gold Standard Checklist**. It integrates verified OSINT from Western News, professional semiotic analysis, and command chain modeling.
 ---
+
 ## 🔐 Integrity Verification
 
-**SHA-256:** `9f09f369d266130eb97eaab27d99620aba67ad05a5ea56b6595e674b0adb2`
+**SHA-256:** `81e318aeba1085f54b53789bd2de30d96ee2362ff6aa087a61b299ee4e76e404`
 
 **Verification Command**
 
 ```bash
-curl -L -o verify_intel.md https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/1e84196708d51be05855e5bb8cd4b4d10eead205/dossier/SSISM_INTEL_BRIEF_20260425_The_Acoustic_Reality_Pincers.md && sha256sum verify_intel.md
+curl -L -o verify_intel.md https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/c9e2cc28cf9170fa9c47344529c329835209bad1/dossier/SSISM_INTEL_BRIEF_20260425_The_Acoustic_Reality_Pincers.md && sha256sum verify_intel.md
 ```
