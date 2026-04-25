@@ -48,22 +48,24 @@ When several aircraft operate together over civilian areas, the scale of destruc
 For international observers, this is not a tactical detail. It is a pattern of harm tied to how command authority is structured.
 
 ---
+
 ## Command Responsibility and Civilian Harm
 
 In international humanitarian law, responsibility for unlawful acts is not limited to the pilot, the unit, or the immediate tactical commander. Responsibility travels upward through the chain of command to those who exercise **effective control** over the forces conducting operations.
 
 This includes individuals who:
 
-- Appoint commanders
-- Direct or influence operations
-- Approve or oversee offensives
-- Maintain authority over forces committing violations
+- Appoint commanders  
+- Direct or influence operations  
+- Approve or oversee offensives  
+- Maintain authority over forces committing violations  
 
 When operational air decisions are regularly briefed, directed, or approved within a presidential reporting chain, responsibility follows that chain of authority.
 
 This is the doctrine of **command responsibility** recognized in international jurisprudence. The doctrine is codified in Article 28 of the Rome Statute of the International Criminal Court, which establishes liability for superiors who knew, or should have known, about unlawful acts and failed to prevent them or punish those responsible.
 
 In contexts where air power is the primary instrument causing civilian harm, the key question for investigators is not only *who flew the aircraft*, but *who maintained effective control over the system that ordered, enabled, and sustained those strikes*.
+
 ---
 
 ## The Role of the Air Force Chief
@@ -82,9 +84,9 @@ Observers often ask: *Who is actually deciding these operations?*
 
 The emerging picture suggests:
 
-- Air strikes are not purely field decisions
-- The current Commander-in-Chief is not acting independently
-- The Presidency remains directly tied to operational outcomes
+- Air strikes are not purely field decisions  
+- The current Commander-in-Chief is not acting independently  
+- The Presidency remains directly tied to operational outcomes  
 
 For diplomats, UN mechanisms, and accountability bodies, this clarifies where scrutiny should focus: not only on units in the field, but on the structure that enables and directs them.
 
@@ -94,11 +96,11 @@ For diplomats, UN mechanisms, and accountability bodies, this clarifies where sc
 
 International investigators, journalists, and civil society can look for:
 
-1. Patterns of air strikes relative to political events or directives
-2. Appointment pathways of air leadership
-3. Reporting routines between military leaders and the Presidency
-4. Repeated use of multiple aircraft in civilian zones
-5. Statements made in security councils or executive meetings preceding offensives
+1. Patterns of air strikes relative to political events or directives  
+2. Appointment pathways of air leadership  
+3. Reporting routines between military leaders and the Presidency  
+4. Repeated use of multiple aircraft in civilian zones  
+5. Statements made in security councils or executive meetings preceding offensives  
 
 These links help establish the chain between decision-makers and consequences on the ground.
 
@@ -116,6 +118,8 @@ For the world to understand Myanmar today, it must look not only at where bombs 
 
 **Keywords:** command responsibility, air power, civilian harm, Myanmar, presidential control
 
+---
+
 ## 🔐 Integrity Verification (Final Published State)
 
 This document has been verified against its final working version in the repository.
@@ -124,8 +128,6 @@ This document has been verified against its final working version in the reposit
 - **Verification Method:** Local Termux checksum (`sha256sum`)
 - **State:** Final edited version (post-commit working tree)
 - **Integrity Note:** This hash reflects the exact content of the published file at the time of export and publication.
-
----
 
 ### 📌 Verification Command (Reproducibility)
 
