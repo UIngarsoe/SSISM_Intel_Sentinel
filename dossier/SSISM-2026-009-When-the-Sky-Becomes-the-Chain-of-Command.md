@@ -125,6 +125,8 @@ This document has been verified against its final working version in the reposit
 - **State:** Final edited version (post-commit working tree)
 - **Integrity Note:** This hash reflects the exact content of the published file at the time of export and publication.
 
+---
+
 ### 📌 Verification Command (Reproducibility)
 
 ```bash
