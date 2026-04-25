@@ -23,7 +23,7 @@ e707b1b0fa6077d1d5317fed66854f248ef487ec1b5ab1a36a3e3c4ee74c0d9c
 ## 🧭 Integrity Scope
 ✔ File content integrity confirmed  
 ✔ No alteration after hashing  
-✔ Matches repository version state at verification time  
+✔ Matches repository state at verification time  
 
 ---
 
@@ -40,7 +40,7 @@ It is based solely on open-source intelligence (OSINT) and structural analysis.
 
 ## 📌 OPERATIONAL NOTE
 This integrity record is immutable once published.
-Any modification of the main document requires regeneration of SHA-256 and creation of a new record.
+Any modification of the main document requires regeneration of SHA-256 and creation of a new verification record.
 
 ---
 
