@@ -123,11 +123,11 @@ For the world to understand Myanmar today, it must look not only at where bombs 
 ## 🔐 Integrity Verification (Final Published State)
 
 - **SHA-256:** `e6db82a4de56fc87d0f99589ddc680c7ad7ec8caba11637bea642e2f46e14619`  
-- **Verification Method:** Local Termux checksum (`sha256sum`)  
-- **State:** Final published working-tree version  
+- **Method:** `sha256sum` (local verification)  
+- **State:** Final published version (immutable reference)
 
-### 📌 Verification Command (Reproducibility)
+### 📌 Verification Command
 
 ```bash
-sha256sum dossier/SSISM-2026-009-When-the-Sky-Becomes-the-Chain-of-Command.md
-```
+sha256sum dossier/SSISM-2026-009-When-the-Sky-Becomes-the-Chain-of-Command.md'''
+
