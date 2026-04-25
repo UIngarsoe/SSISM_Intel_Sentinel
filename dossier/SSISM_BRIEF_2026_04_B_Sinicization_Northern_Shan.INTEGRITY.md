@@ -14,8 +14,8 @@ e707b1b0fa6077d1d5317fed66854f248ef487ec1b5ab1a36a3e3c4ee74c0d9c
 
 ## 🕒 Verification Method
 - Generated using Termux `sha256sum`
-- Local filesystem integrity check
-- Matched against GitHub commit snapshot (f93e6d0)
+- Local filesystem integrity verification
+- Matched against GitHub commit snapshot (00f69d79c3...)
 - No modification after hash generation
 
 ---
@@ -34,7 +34,7 @@ Analysis → Structuring → Publication → SHA-256 Generation → Independent 
 
 ## ⚖️ CLASSIFICATION NOTE
 This record is part of SSISM methodological transparency protocol.
-It is based on open-source intelligence (OSINT) only.
+It is based solely on open-source intelligence (OSINT) and structural analysis.
 
 ---
 
@@ -44,4 +44,4 @@ Any modification of the main document requires regeneration of SHA-256 and creat
 
 ---
 
-🦚 SSISM Intel | 2026-04-25
+🦚🤺 SSISM Intel | 2026-04-25 20:33
