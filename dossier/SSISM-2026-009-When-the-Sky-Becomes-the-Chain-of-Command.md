@@ -61,9 +61,9 @@ This includes individuals who:
 
 When operational air decisions are regularly briefed, directed, or approved within a presidential reporting chain, responsibility follows that chain of authority.
 
-This is the doctrine of **command responsibility** recognized in international jurisprudence. The doctrine is codified in Article 28 of the Rome Statute of the **International Criminal Court**, which establishes liability for superiors who knew, or should have known, about unlawful acts and failed to prevent them or punish those responsible.
+This is the doctrine of **command responsibility** recognized in international jurisprudence. The doctrine is codified in Article 28 of the Rome Statute of the International Criminal Court, which establishes liability for superiors who knew, or should have known, about unlawful acts and failed to prevent them or punish those responsible.
 
-In contexts where air power is the primary instrument causing civilian harm, the question for investigators is not only *who flew the aircraft*, but *who maintained effective control over the system that ordered, enabled, and sustained those strikes*.
+In contexts where air power is the primary instrument causing civilian harm, the key question for investigators is not only *who flew the aircraft*, but *who maintained effective control over the system that ordered, enabled, and sustained those strikes*.
 ---
 
 ## The Role of the Air Force Chief
