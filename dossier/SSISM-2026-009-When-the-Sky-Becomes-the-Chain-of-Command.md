@@ -120,15 +120,6 @@ For the world to understand Myanmar today, it must look not only at where bombs 
 
 ---
 
-## 🔐 Integrity Verification (Final Published State)
-
-This document has been verified against its final working version in the repository.
-
-- **SHA-256:** `e6db82a4de56fc87d0f99589ddc680c7ad7ec8caba11637bea642e2f46e14619`
-- **Verification Method:** Local Termux checksum (`sha256sum`)
-- **State:** Final edited version (post-commit working tree)
-- **Integrity Note:** This hash reflects the exact content of the published file at the time of export and publication.
-
 ### 📌 Verification Command (Reproducibility)
 
 ```bash
