@@ -85,5 +85,3 @@ This briefing is based on open-source intelligence synthesis and structural inte
 No classified or unverifiable internal intelligence has been used. All observations remain localized but directionally significant for understanding border governance and economic realignment dynamics.
 
 ---
-
-*(End of Section 5 — You can now create a separate INTEGRITY.md file later as planned.)*
