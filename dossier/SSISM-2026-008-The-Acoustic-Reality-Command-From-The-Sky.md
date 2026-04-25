@@ -47,17 +47,15 @@ SSISM identifies this as a **Vertical Translation Gap**:
 Multiple local reports describe:
 
 - Weekly operational briefings at the Presidential Residence
-- Direct selection of the Air Force chief by **0**
-- The current Commander-in-Chief **1** reporting operational matters upward
-- The Air Force chief **2** personally chosen and positioned inside this reporting loop
+- Direct selection of the Air Force chief by the President
+- The Commander-in-Chief reporting operational matters upward
+- The Air Force chief positioned inside this reporting loop
 
 This reverses the constitutional flow of authority. Air operations no longer appear as independent military decisions but as outcomes within a presidential command environment.
 
 ---
 
 ## 3️⃣ Operational Reality: The Ngapali Case (24 April)
-
-Observed pattern:
 
 | Observation | Data Point | Structural Interpretation |
 |---|---|---|
@@ -89,15 +87,11 @@ In international humanitarian law, responsibility extends to those who:
 - Direct or oversee operations
 - Maintain effective control over forces conducting strikes
 
-If air operations are being briefed, directed, or approved within the presidential chain, responsibility follows that chain.
-
-This is the doctrine of **command responsibility** recognized in international jurisprudence.
+If air operations are being briefed, directed, or approved within the presidential chain, responsibility follows that chain. This is the doctrine of **command responsibility** recognized in international jurisprudence.
 
 ---
 
 ## 6️⃣ The Strategic Pincer
-
-SSISM identifies a pincer designed to delay international accountability while accelerating attrition on the ground:
 
 | The Shield | The Sword |
 |---|---|
@@ -110,8 +104,6 @@ SSISM identifies a pincer designed to delay international accountability while a
 ## ✅ Final SSISM Assessment
 
 The **Acoustic Reality** over Ngapali is the rebuttal to the kinship metaphor.
-
-As of late April 2026:
 
 > Presidential authority, air leadership appointments, and coordinated air strikes form a single chain of operational consequence.
 
@@ -129,7 +121,5 @@ This briefing integrates OSINT reporting, semiotic analysis, and command-chain m
 
 SHA-256: `ec30e1d551423ed64063e87a53edbf388d34a57aa485c224d1eb6f18c3a3e1af`
 
-Verified locally in Termux against the GitHub commit:
-078ca1425d67dfda4b0f34ac502aa3317343da13
-
-
+Verified locally in Termux against commit:
+`078ca1425d67dfda4b0f34ac502aa3317343da13`
