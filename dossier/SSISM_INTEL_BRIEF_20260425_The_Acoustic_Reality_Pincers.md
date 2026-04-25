@@ -48,9 +48,10 @@ This briefing follows the **SSISM Gold Standard Checklist**. It integrates verif
 ---
 ## 🔐 Integrity Verification
 
-**SHA-256:** `92792d661decd13267fce4acdc253d9fb1c93a394b2385d7eb3ef35bd4877bd`
+**SHA-256:** `9f09f369d266130eb97eaab27d99620aba67ad05a5ea56b6595e674b0adb2`
 
 **Verification Command**
 
 ```bash
-curl -L -o verify_intel.md https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/330b626724e267dba9a5346cb9c4f21b4aa6b512/dossier/SSISM_INTEL_BRIEF_20260425_The_Acoustic_Reality_Pincers.md && sha256sum verify_intel.md
+curl -L -o verify_intel.md https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/1e84196708d51be05855e5bb8cd4b4d10eead205/dossier/SSISM_INTEL_BRIEF_20260425_The_Acoustic_Reality_Pincers.md && sha256sum verify_intel.md
+```
