@@ -48,20 +48,22 @@ When several aircraft operate together over civilian areas, the scale of destruc
 For international observers, this is not a tactical detail. It is a pattern of harm tied to how command authority is structured.
 
 ---
-
 ## Command Responsibility and Civilian Harm
 
-In international humanitarian law, responsibility is not limited to the pilot or the unit. It extends upward through the chain of command to those who:
+In international humanitarian law, responsibility for unlawful acts is not limited to the pilot, the unit, or the immediate tactical commander. Responsibility travels upward through the chain of command to those who exercise **effective control** over the forces conducting operations.
+
+This includes individuals who:
 
 - Appoint commanders
-- Direct operations
+- Direct or influence operations
 - Approve or oversee offensives
-- Maintain effective control over forces committing violations
+- Maintain authority over forces committing violations
 
-If operational air decisions are being briefed, directed, or approved at the presidential level, then responsibility follows that chain.
+When operational air decisions are regularly briefed, directed, or approved within a presidential reporting chain, responsibility follows that chain of authority.
 
-This is the principle of **command responsibility** recognized in international jurisprudence.
+This is the doctrine of **command responsibility** recognized in international jurisprudence. The doctrine is codified in Article 28 of the Rome Statute of the **International Criminal Court**, which establishes liability for superiors who knew, or should have known, about unlawful acts and failed to prevent them or punish those responsible.
 
+In contexts where air power is the primary instrument causing civilian harm, the question for investigators is not only *who flew the aircraft*, but *who maintained effective control over the system that ordered, enabled, and sustained those strikes*.
 ---
 
 ## The Role of the Air Force Chief
