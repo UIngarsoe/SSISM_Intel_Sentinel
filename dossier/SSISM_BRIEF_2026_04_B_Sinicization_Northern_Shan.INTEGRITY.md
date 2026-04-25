@@ -15,7 +15,7 @@ e707b1b0fa6077d1d5317fed66854f248ef487ec1b5ab1a36a3e3c4ee74c0d9c
 ## 🕒 Verification Method
 - Generated using Termux `sha256sum`
 - Local filesystem integrity verification
-- Matched against GitHub commit snapshot (00f69d79c3...)
+- Matched against GitHub commit snapshot (00cdecf6e8...)
 - No modification after hash generation
 
 ---
@@ -44,4 +44,4 @@ Any modification of the main document requires regeneration of SHA-256 and creat
 
 ---
 
-🦚🤺 SSISM Intel | 2026-04-25 20🕞
+🦚🤺 SSISM Intel | 2026-04-25 8:54 PM
