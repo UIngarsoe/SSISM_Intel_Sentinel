@@ -46,8 +46,8 @@ To counter this, the **SSISM Doctrine** recommends:
 ## 📜 Methodological Note
 This briefing follows the **SSISM Gold Standard Checklist**. It integrates verified OSINT from Western News, professional semiotic analysis, and command chain modeling.
 ---
-## 🔐 Integrity Verification (Pending Ritual)
-**SHA-256:** `<insert_hash_here>`  
+## 🔐 Integrity Verification 
+**SHA-256:** `<dcffd6406cfcf4e76cca1adfee0305adedae9473f8520fc6f341992e9ee5b550>`  
 **Verification Command:** `curl -sL -o verify_intel.md [RAW_URL] && sha256sum verify_intel.md`
 ---
 **🦚 SSISM Analytical Intelligence Unit** *What is structurally visible today explains operational behavior tomorrow.*
