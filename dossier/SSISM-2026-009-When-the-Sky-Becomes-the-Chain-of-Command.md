@@ -113,3 +113,9 @@ For the world to understand Myanmar today, it must look not only at where bombs 
 ---
 
 **Keywords:** command responsibility, air power, civilian harm, Myanmar, presidential control
+## 🔐 Integrity Verification
+
+SHA-256: `3e3851ac80e5a61caecf380093951d7e8b636653288e97fc84e860152b527d85`
+
+Verified locally in Termux against commit:
+`38b5a7da2282aa3491e567c33eb32925ee5319d8`
