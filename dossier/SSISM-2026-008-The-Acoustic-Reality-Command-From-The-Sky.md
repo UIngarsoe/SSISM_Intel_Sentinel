@@ -127,4 +127,9 @@ This briefing integrates OSINT reporting, semiotic analysis, and command-chain m
 
 ## 🔐 Integrity Verification
 
-SHA-256: `81e318aeba1085f54b53789bd2de30d96ee2362ff6aa087a61b299ee4e76e404`
+SHA-256: `ec30e1d551423ed64063e87a53edbf388d34a57aa485c224d1eb6f18c3a3e1af`
+
+Verified locally in Termux against the GitHub commit:
+078ca1425d67dfda4b0f34ac502aa3317343da13
+
+
