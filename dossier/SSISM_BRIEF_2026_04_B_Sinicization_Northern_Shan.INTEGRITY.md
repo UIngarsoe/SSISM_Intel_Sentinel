@@ -8,24 +8,22 @@ SSISM_BRIEF_2026_04_B_Sinicization_Northern_Shan.md
 ---
 
 ## 🧾 SHA-256 HASH
-
-~/SSISM_Intel_Sentinel $ sha256sum SSISM_BRIEF.md
-e707b1b0fa6077d1d5317fed66854f248ef487ec1b5ab1a36a3e3c4ee74c0d9c  SSISM_BRIEF.md
+e707b1b0fa6077d1d5317fed66854f248ef487ec1b5ab1a36a3e3c4ee74c0d9c
 
 ---
 
 ## 🕒 Verification Method
 - Generated using Termux `sha256sum`
 - Local filesystem integrity check
-- GitHub raw file matched to commit snapshot
-- No post-generation modification applied
+- Matched against GitHub commit snapshot (f93e6d0)
+- No modification after hash generation
 
 ---
 
 ## 🧭 Integrity Scope
 ✔ File content integrity confirmed  
 ✔ No alteration after hashing  
-✔ Matches repository snapshot version (commit-based verification)
+✔ Matches repository version state at verification time  
 
 ---
 
@@ -36,12 +34,14 @@ Analysis → Structuring → Publication → SHA-256 Generation → Independent 
 
 ## ⚖️ CLASSIFICATION NOTE
 This record is part of SSISM methodological transparency protocol.
-It is not classified intelligence and is derived from open-source analytical processing (OSINT).
+It is based on open-source intelligence (OSINT) only.
 
 ---
 
 ## 📌 OPERATIONAL NOTE
-This integrity file is designed to remain immutable once published.
-Any change to the main document requires regeneration of the SHA-256 hash and update of this record.
+This integrity record is immutable once published.
+Any modification of the main document requires regeneration of SHA-256 and creation of a new record.
 
-🦚🤺 SSISM Intel 25 April 2026 at 8:33 PM
+---
+
+🦚 SSISM Intel | 2026-04-25
