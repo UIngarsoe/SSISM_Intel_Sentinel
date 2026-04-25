@@ -115,9 +115,17 @@ For the world to understand Myanmar today, it must look not only at where bombs 
 ---
 
 **Keywords:** command responsibility, air power, civilian harm, Myanmar, presidential control
-## 🔐 Integrity Verification
 
-SHA-256: `3e3851ac80e5a61caecf380093951d7e8b636653288e97fc84e860152b527d85`
+## 🔐 Integrity Verification (Final Published State)
 
-Verified locally in Termux against commit:
-`38b5a7da2282aa3491e567c33eb32925ee5319d8`
+This document has been verified against its final working version in the repository.
+
+- **SHA-256:** `e6db82a4de56fc87d0f99589ddc680c7ad7ec8caba11637bea642e2f46e14619`
+- **Verification Method:** Local Termux checksum (`sha256sum`)
+- **State:** Final edited version (post-commit working tree)
+- **Integrity Note:** This hash reflects the exact content of the published file at the time of export and publication.
+
+### 📌 Verification Command (Reproducibility)
+
+```bash
+sha256sum dossier/SSISM-2026-009-When-the-Sky-Becomes-the-Chain-of-Command.md
