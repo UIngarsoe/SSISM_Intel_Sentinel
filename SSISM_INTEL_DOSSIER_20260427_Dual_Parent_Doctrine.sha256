@@ -1,0 +1,16 @@
+SSISM VERIFIED INTEGRITY RECORD
+--------------------------------
+
+Document:
+SSISM_INTEL_DOSSIER_20260427_Dual_Parent_Doctrine.md
+
+Commit:
+aa4867c1a9783d7b13a5b39e79da35d0a28e08d9
+
+SHA-256:
+c2772896590bfb545eff642b9356f3e4fa7ea9d5576378732ac9d41641da948c
+
+Verification Command:
+
+curl -L -o verify.md https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/aa4867c1a9783d7b13a5b39e79da35d0a28e08d9/dossier/SSISM_INTEL_DOSSIER_20260427_Dual_Parent_Doctrine.md
+sha256sum verify.md
