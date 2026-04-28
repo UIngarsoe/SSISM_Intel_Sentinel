@@ -1,0 +1,27 @@
+SSISM INTEGRITY VERIFICATION RECORD
+==================================
+
+Dossier:
+SSISM-2026-010-The-Duality-Trap.md
+
+Repository:
+SSISM_Intel_Sentinel
+
+Commit:
+83079f83f47eadeaaa2692d3b20ab387ea361fb7
+
+SHA-256 (GitHub raw file):
+cc4fef6af7d3a295c2c039c67fec7a926503d61772eb18ae293fbfab6b8514a8
+
+Verification Method:
+curl GitHub raw file → sha256sum
+
+Verified on:
+28 April 2026
+
+Analyst:
+U Ingar Soe
+SSISM Analytical Intelligence UnitO
+X
+X
+
