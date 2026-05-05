@@ -33,7 +33,7 @@ In times when people could not speak openly in front of authorities, communities
 
 The Burmese language also has a cultural habit of reversing phrases, using irony, and presenting ideas through poetic inversion. Meaning is often conveyed indirectly through contrast and metaphor.
 
-The phrase currently heard on Yangon streets — “Taya Pote, Ah Koe, Pusoe Yoe” — is understood by many as a metaphor for excessive reliance across economic, political, domestic, foreign, and security affairs on a single regional superpower. It is a public metaphor expressed in street language.
+The phrase currently heard on Yangon streets — “Taya Pote, Ah Koe, Pasein Yoe” — is understood by many as a metaphor for excessive reliance across economic, political, domestic, foreign, and security affairs on a single regional superpower. It is a public metaphor expressed in street language.
 
 Reading public comments, one can observe growing anxiety about a future of complete dependence.
 
