@@ -1,7 +1,4 @@
-git add packages/ssism-core/ED-015_Bilingual_Monograph.md
-git commit -m "docs: deploy finalized ED-015 bilingual monograph removing institution aliases"
-git push origin main
-
+🦚🤺🛡️
 # 🏛️ Spatial–Structural Institutional System Mapping (SSISM)
 ## Civil Education Briefing & Academic Monograph (ED-015)
 **Classification:** Civil Education / Geopolitical Architecture / Counter-Narrative Analysis  
