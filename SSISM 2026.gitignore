@@ -1,0 +1,11 @@
+cat << 'EOF' > .gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operational logs
+weights.log
+*.log
+EOF
+
