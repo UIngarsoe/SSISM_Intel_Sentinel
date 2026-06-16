@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # BAMAR ENLIGHTENMENT JOURNAL (BEJ 14)
 ## SSISM Issue ~14
 
