@@ -1,6 +1,3 @@
-### SSISM-2026-0617-BEIJING.md Finalized Codebase Package
-Here is your complete, finalized unified multi-LLM newsroom package synthesized into a single production markdown file for immediate deployment.
-```markdown
 # 🌿 SSISM ACADEMIC MORNING RITUAL CIVIC INTELLIGENCE JOURNAL
 ## BEJ 15 — Beijing Summit: Patronage, Legitimacy & Strategic Fault Lines
 *   **Learning Session Date:** 17 June 2026
