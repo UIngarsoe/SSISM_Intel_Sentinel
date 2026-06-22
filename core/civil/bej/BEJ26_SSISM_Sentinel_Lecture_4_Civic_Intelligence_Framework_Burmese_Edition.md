@@ -1,4 +1,3 @@
-cat << 'EOF' > core/civil/bej/BEJ26_SSISM_Sentinel_Lecture_4_Civic_Intelligence_Framework_Burmese_Edition.md
 # 🌿 SSISM SENTINEL LECTURE 4
 ## ဗမာ့အလင်းဂျာနယ် (အမှတ် ၂၆)
 ### နိုင်ငံသားဆိုင်ရာ ထောက်လှမ်းရေးမူဘောင် (Civic Intelligence Framework)
