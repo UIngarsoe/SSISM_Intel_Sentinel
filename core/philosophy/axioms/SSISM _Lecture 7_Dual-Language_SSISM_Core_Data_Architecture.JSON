@@ -1,0 +1,103 @@
+{
+  "system_metadata": {
+    "repository": "SSISM_INTEL_SENTINEL",
+    "journal_title_en": "Bamar Enlightenment Journal",
+    "journal_title_mm": "ဗမာ့အလင်းတန်း ဂျာနယ်",
+    "issue_number": 29,
+    "lecture_id": "Lecture_07",
+    "publication_date": "2026-06-25",
+    "author": "U Ingar Soe (ဦးအင်္ဂါစိုး)",
+    "file_target": "core/civil/bej/BEJ29_MASTER7_Burmes_ပါရမီတရားနှင့် ပညာဉာဏ်.md",
+    "cryptographic_hash": "939ca1b64dae2c6c5192f5389c239ffdf49be26d4d511a10f5a02b300d344a2a"
+  },
+  "lecture_identity": {
+    "title": {
+      "en": "The Posture of the Wise",
+      "mm": "ပညာရှိတို့၏ တည်ဟန်"
+    },
+    "core_insight": {
+      "en": "Attaining Intelligence and Insight Through Service",
+      "mm": "ပါရမီဖြည့်ဆည်းခြင်းဖြင့် အသိဉာဏ်နှင့် အမြင်ထူးကို ရရှိခြင်း"
+    }
+  },
+  "core_principles": [
+    {
+      "en": "Reality Before Narrative",
+      "mm": "အရှိတရားကို အပြောထက် ဦးစားပေးခြင်း"
+    },
+    {
+      "en": "Humility Before Recognition",
+      "mm": "ဂုဏ်ဒြပ်ထက် နှိမ့်ချမှုကို ရှေ့ထားခြင်း"
+    },
+    {
+      "en": "Gratitude Before Pride",
+      "mm": "မာနထက် ကျေးဇူးတရားကို အလေးဂရုပြုခြင်း"
+    },
+    {
+      "en": "Service Before Self",
+      "mm": "မိမိကိုယ်ကျိုးထက် ပါရမီတရားကို ရှေ့တန်းတင်ခြင်း"
+    },
+    {
+      "en": "Voice of the People Through Wisdom (Lokapala Dhamma)",
+      "mm": "ဉာဏ်ပညာဖြင့် လူထုအသံကို ဖော်ဆောင်ခြင်း (လောကပါလတရား)"
+    }
+  ],
+  "verification_control_nodes": {
+    "mahosadha_node": {
+      "type": "Strategic Intelligence",
+      "type_mm": "ဗျူဟာမြောက်အသိဉာဏ်",
+      "capabilities": [
+        { "en": "Pattern recognition", "mm": "အခြင်းအရာကို ပုံစံဖော်ထုတ်ခြင်း" },
+        { "en": "Strategic thinking", "mm": "ဗျူဟာမြောက် တွေးခေါ်ခြင်း" },
+        { "en": "Reality analysis", "mm": "အရှိတရားကို ခွဲခြမ်းစိတ်ဖြာခြင်း" }
+      ]
+    },
+    "amara_node": {
+      "type": "Ethical Grounding",
+      "type_mm": "ကျင့်ဝတ်နှင့် နှိမ့်ချမှုအခြေခံ",
+      "capabilities": [
+        { "en": "Humility", "mm": "နှိမ့်ချခြင်းတရား" },
+        { "en": "Gratitude", "mm": "ကျေးဇူးသိတတ်ခြင်း" },
+        { "en": "Ethical integrity", "mm": "ကျင့်ဝတ်အခြေခံခိုင်မာခြင်း" },
+        { "en": "Community service", "mm": "လူထုအတွက် ပါရမီဖြည့်ဆည်းခြင်း" }
+      ]
+    },
+    "safeguard_rule": {
+      "en": "Whenever the Mahosadha Node strengthens, immediately awaken the Amara Node. The more wisdom expands, the more humility must be cultivated.",
+      "mm": "မဟောသဓာကွန်ရက် အားကောင်းလာတိုင်း အမရာကွန်ရက်ကို ချက်ချင်း နှိုးဆော်ပါလော့။ အသိဉာဏ်ပညာ ကြီးထွားလာလေလေ၊ နှိမ့်ချခြင်းတရားကို တိုးမြှင့်ရလေလေတည်း။"
+    }
+  },
+  "levels_of_knowledge": {
+    "level_1": {
+      "term": "Knowledge",
+      "term_mm": "သင်ယူသိရှိမှု",
+      "definition_en": "I know.",
+      "definition_mm": "ငါ သိမြင်၏။"
+    },
+    "level_2": {
+      "term": "Intelligence",
+      "term_mm": "အသိဉာဏ်ပွင့်လင်းမှု",
+      "definition_en": "I understand.",
+      "definition_mm": "ငါ နားလည်သဘောပေါက်၏။"
+    },
+    "level_3": {
+      "term": "Wisdom",
+      "term_mm": "ဉာဏ်ပညာ အမြော်အမြင်",
+      "definition_en": "I am still learning, and I continue to serve the people.",
+      "definition_mm": "ငါကား ဆက်လက်သင်ယူဆဲ၊ လူထုအကျိုးအတွက် ဆက်လက်ပေးဆပ်ဆဲ ဖြစ်၏။"
+    }
+  },
+  "the_golden_line": {
+    "en": "The posture of the wise is not arrogance, but humility that uses the wisdom gained through service to elevate the voice of the people. This is the true Lokapala Dhamma — the righteous protection of truth.",
+    "mm": "ပညာရှိ၏ တည်ဟန်ဟူသည် မော်ကြွားဝါကြွားခြင်း မဟုတ်ဘဲ၊ မိမိ၏ ပါရမီတရားမှတစ်ဆင့် ပြည်သူလူထု၏ အသံကို ဉာဏ်ပညာဖြင့် ပွင့်လင်းစွာ တင်ပြပေးနိုင်သော နှိမ့်ချမှုသာ ဖြစ်ပေသည်။ ထိုသို့ ကျင့်ကြံအားထုတ်ခြင်းသည်သာ အမှန်တရားကို ကာကွယ်စောင့်ရှောက်သော လောကပါလတရား ဖြစ်ပါတယ်။"
+  },
+  "system_status": {
+    "integrity": "SECURE",
+    "synchronization": "PASSED_AND_LOCKED",
+    "nodes_active": [
+      "Mahosadha_Activated",
+      "Amara_Activated"
+    ],
+    "closing_seal": "Sadhu, Sadhu, Sadhu (သာဓု သာဓု သာဓု) 🙏🌿"
+  }
+}
