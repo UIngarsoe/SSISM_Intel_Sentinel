@@ -1,79 +1,72 @@
 # Bamar Enlightenment Journal – Issue 32  
 **Lecture 10**  
-**“The Guardian’s Voice – The Art of Wise Communication”**  
-**Learning from Today’s Public Wisdom and Dharma Reflection**
+**“Seeing Through Delusion – Dharma Lessons from Today’s Public Wisdom”**  
+**Learning Clear Seeing (Vipassana) in Times of Political Illusion**
 
 **Authored, Compiled, and Taught by U Ingar Soe**  
-**28 June 2026**
+**27 June 2026**
 
 ---
 
 ### Editor’s Note
 
-In this lecture we study a powerful example of calm, metaphor-rich public commentary that appeared on social media. We give full credit and deep respect to **The Irrawaddy** for their thorough investigative reporting. From a Dharma perspective, we learn how to see through political illusion (Avijja) and practice the Guardian’s Voice — communicating truth with dignity and clarity.
+Today we reflect on strong investigative reporting and wise public commentary circulating on social media. We give full credit and deep respect to **The Irrawaddy** for their thorough investigation and to thoughtful voices who share calm, insightful analysis. From a Dharma perspective, we learn how **Avijja (delusion)** operates in appointments and political language, and how the Guardian’s Voice can help society see more clearly.
 
 ---
 
 ### Key Facts from Irrawaddy Reporting
 
-Recent high-level appointments in Yangon include individuals with controversial pasts:
-- One newly appointed regional Hluttaw Speaker reportedly involved in the 2003 Depayin incident.
-- The new Yangon Mayor previously served as a military judge who issued death sentences against prominent resistance figures.
+Recent appointments in Yangon include:
+- **U Thet Aung** as Speaker of Yangon Regional Hluttaw — reportedly involved in the 2003 Depayin incident.
+- **U Myo Myint Aung** as Yangon Mayor — a former military judge who issued death sentences against resistance figures including Ko Jimmy and Ko Zeya Thaw.
 
-These appointments raise serious questions about loyalty versus justice and public trust.
-
----
-
-### A Wise Voice from Social Media (probfriend example)
-
-> “The invitation is described as ‘unconditional,’ yet the political landscape often resembles a hotel advertising ‘Open 24 Hours’ while quietly keeping the front door locked.  
-> Peace talks are rather like inviting guests to dinner. Hospitality begins by opening the gate, not merely polishing the welcome sign.  
-> In diplomacy, words build bridges. But bridges are judged not by their blueprints, but by whether people can actually cross them.”
-
-This elegant writing reveals the gap between official language and reality without anger or insult.
+These appointments highlight a pattern: loyalty to the regime is rewarded even when past actions carry heavy moral weight.
 
 ---
 
-### Dharma Lessons – Clear Seeing in Difficult Times
+### Dharma Lessons – Understanding Avijja in Action
 
-1. **Avijja in Political Language**  
-   Calling something “unconditional” while many stakeholders remain excluded or imprisoned is a form of delusion. The Buddha taught that Avijja blinds us to suffering and truth.
+1. **Delusion in Appointments**  
+   Placing individuals with “blood on their hands” in positions meant to serve the public is a form of institutional Avijja — ignoring reality while pretending to build a clean administration.
 
-2. **The Power of Skillful Metaphor**  
-   Everyday images (hotel, dinner, bridge) help people *feel* the contradiction. This is Right Speech — truthful, gentle, and beneficial.
+2. **The Power of Calm Metaphor (Learned from probfriend)**  
+   One wise commentator wrote:  
+   > “The invitation is described as ‘unconditional,’ yet the political landscape often resembles a hotel advertising ‘Open 24 Hours’ while quietly keeping the front door locked.”  
+
+   This elegant metaphor reveals the gap between words and reality without anger. It teaches us how to protect truth with dignity.
 
 3. **Lokapala Dhamma – Protecting Truth**  
-   The wise do not shout. They calmly illuminate reality so others can see for themselves. This is the duty of guardians in the information age.
+   True wisdom does not shout. It calmly points out contradictions so people can see for themselves. This is the duty of the wise in difficult times.
 
 ---
 
 ### Practical Exercise for Civil Intelligence
 
 **Daily Practice:**  
-When reading political news, ask yourself:
-- What metaphor best reveals the gap between words and reality?
-- What is being omitted?
-- How can I speak about this with clarity and dignity?
+When you read political news, ask:
+- What is being said?
+- What reality is being omitted?
+- What metaphor would help others see the truth clearly and calmly?
 
 **Morning Commitment:**  
-“Today, may my words protect truth with wisdom and compassion.”
+“Today, may I see with clear eyes. May my words illuminate rather than inflame.”
 
 ---
 
 ### The Golden Line
 
-> “Words can polish a welcome sign or open a gate. The wise choose the latter — calmly revealing truth so that all may walk toward genuine peace and understanding.”
+> “When leaders reward those whose hands still carry the stain of past violence, society is asked to accept polished titles while ignoring the smoke of history. The wise see through this delusion and gently speak the truth — this is Lokapala Dhamma in the information age.”
 
 **Sadhu, Sadhu, Sadhu.** 🙏🌿
 
 ---
 
 **Credits & Respect**  
-- Deep investigative reporting: **The Irrawaddy** (Burmese Edition)  
+- Deep investigative reporting: **The Irrawaddy** (Burmese Edition) – [Link](https://bit.ly/4oOrvwk)  
 - Public wisdom example: “probfriend” (recorded anonymously for educational purposes)
 
 **Published by**  
 U Ingar Soe  
 SSISM Civil Intelligence Specialist & BEJ Editor  
-Bamar Enlightenment Journal Issue 32  
-28 June 2026
+Bamar Enlightenment Journal Issue 31  
+27 June 2026
