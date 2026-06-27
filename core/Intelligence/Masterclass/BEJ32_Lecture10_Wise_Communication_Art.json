@@ -1,0 +1,41 @@
+{
+  "system_metadata": {
+    "repository": "SSISM_INTEL_SENTINEL",
+    "journal_title_en": "Bamar Enlightenment Journal",
+    "journal_title_mm": "ဗမာ့အလင်းတန်း ဂျာနယ်",
+    "issue_number": 32,
+    "lecture_id": "Lecture_10",
+    "publication_date": "2026-06-28",
+    "author": "U Ingar Soe (ဦးအင်္ဂါစိုး)",
+    "file_target": "core/civil/bej/BEJ32_Lecture10_Wise_Communication_Art.md",
+    "status": "READY_FOR_PUBLICATION",
+    "classification": "Leadership Training - Internal Development"
+  },
+  "lecture_identity": {
+    "title": {
+      "en": "The Guardian’s Voice – The Art of Wise Communication",
+      "mm": "ကာကွယ်သူ၏ အသံ – ပညာရှိသော ဆက်သွယ်ရေး အနုပညာ"
+    },
+    "core_insight": {
+      "en": "True leadership communicates truth with dignity, clarity, and compassion. Metaphor is a powerful tool to reveal reality without descending into anger.",
+      "mm": "စစ်မှန်သော ခေါင်းဆောင်မှုသည် အမှန်တရားကို ဂုဏ်သိက္ခာ၊ ရှင်းလင်းမှု နှင့် ကရုဏာဖြင့် ဆက်သွယ်သည်။ ဥပမာစကားပုံသည် ဒေါသ မကျရောက်ဘဲ အရှိတရားကို ဖော်ပြရန် အားကောင်းသော ကိရိယာ ဖြစ်သည်။"
+    }
+  },
+  "core_principles": [
+    { "en": "Reality Before Narrative", "mm": "အရှိတရားကို အပြောထက် ဦးစားပေးခြင်း" },
+    { "en": "Dignity Before Outrage", "mm": "ဒေါသ မတိုင်မီ ဂုဏ်သိက္ခာကို ရှေ့ထားခြင်း" },
+    { "en": "Metaphor as Tool for Truth Protection", "mm": "အမှန်တရားကို ကာကွယ်ရန် ဥပမာစကားပုံကို အသုံးပြုခြင်း" },
+    { "en": "Humility in Expression", "mm": "ဖော်ပြမှုတွင် နှိမ့်ချမှု" }
+  ],
+  "source_inspiration": {
+    "reference": "probfriend",
+    "description": "Observed example of calm, metaphor-rich, dignified public commentary on political language and peace processes. Recorded anonymously for internal leadership training purposes.",
+    "key_lessons": ["Metaphor mastery", "Dignified critique", "Ethical tone", "Logical progression", "Calm authority"]
+  },
+  "system_status": {
+    "integrity": "SECURE",
+    "synchronization": "READY",
+    "nodes_active": ["Mahosadha_Activated", "Amara_Activated"],
+    "closing_seal": "Sadhu, Sadhu, Sadhu 🙏🌿"
+  }
+}
