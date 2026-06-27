@@ -1,5 +1,4 @@
-# 🛡️ SSISM Intel: မြန်မာဘာသာထုတ်ဝေမှု (Burmese Language Edition)
-
+# 🛡️ SSISM Intel: 
 ## ဗမာ့အလင်းတန်း ဂျာနယ် – အမှတ် ၃၁ (Bamar Enlightenment Journal – Issue 31)
 ### သင်ခန်းစာ ၉ (Lecture 9)
 **“အဝိဇ္ဇာ အကွက်ချခြင်း – သိမြင်မှုဆိုင်ရာ ရောဂါဗေဒ နှင့် မျိုးဆက်ခုခံတွန်းလှန်မှု”**  
