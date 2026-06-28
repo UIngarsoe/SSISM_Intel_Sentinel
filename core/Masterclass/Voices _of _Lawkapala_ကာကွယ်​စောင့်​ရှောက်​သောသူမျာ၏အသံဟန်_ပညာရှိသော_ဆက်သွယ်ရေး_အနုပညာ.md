@@ -2,7 +2,7 @@ Sentinel Masterclass Lecture 10
 
 "The Guardian's Voice – The Art of Wise Communication"
 
-သင်ခန်းစာ (၁၀)
+ဦးအင်္ဂါ ရေးသည့် အဆင့်မြင့် သင်ခန်းစာ (၁၀)
 
 ကာကွယ်သူ၏ အသံ – ပညာရှိသော ဆက်သွယ်ရေး အနုပညာ
 
