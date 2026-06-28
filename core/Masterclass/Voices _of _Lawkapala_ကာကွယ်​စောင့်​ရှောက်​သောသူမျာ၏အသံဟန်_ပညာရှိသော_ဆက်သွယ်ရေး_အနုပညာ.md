@@ -1,6 +1,6 @@
-##**Sentinel Masterclass Lecture 10**
+Sentinel Masterclass Lecture 10
 
-##**"The Guardian's Voice – The Art of Wise Communication"**
+"The Guardian's Voice – The Art of Wise Communication"
 
 သင်ခန်းစာ (၁၀)
 
