@@ -1,8 +1,13 @@
 {
+  "disclaimer": {
+    "note": "This is an open educational framework for personal and community sovereignty. Use responsibly. Always verify information independently. Provided as-is with no guarantees. For educational and defensive purposes only.",
+    "version": "2026.2.1-safe",
+    "last_updated": "2026-06-29"
+  },
   "system_manifest": {
     "system_name": "SSISM / MYISM Sentinel Master Engine",
     "architecture_version": "2026.2.1",
-    "framework_author": "U Ingar Soe (Independent Researcher, Poormanmeism Institute)",
+    "framework_author": "SSISM Sentinel Project (Independent Research)",
     "security_seal": "SHA-256_DYNAMIC_INTEGRITY_LOOP",
     "operational_status": "ACTIVE_PRODUCTION"
   },
@@ -39,7 +44,7 @@
   "automation_hooks": {
     "override_trigger": "🔥🪄🔑",
     "runtime_script": "SSISM_L6_OVERRIDE.sh",
-    "repository_target": "https://github.com/UIngarsoe/Myanmar-OSINT-Ritual"
+    "repository_target": "TBD - Local or mirrored repository"
   },
   "masterclass_curriculum": [
     {
@@ -105,7 +110,7 @@
       "key_deliverables": [
         "SHA-256 seal generation and automated verification loops",
         "Zero-trust documentation ledgering practices",
-        "Tamper-detection architectures for public and private GitHub repositories"
+        "Tamper-detection architectures for public and private repositories"
       ]
     },
     {
