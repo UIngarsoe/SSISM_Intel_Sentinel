@@ -1,0 +1,191 @@
+{
+  "lecture_title": "Vijjadhora Sentinel Masterclass: The Architecture of Vijja (မြန်မာမူရင်းဗားရှင်း)",
+  "source_document": "ဝိဇ္ဇာ - ဝီကီပီးဒီးယား.PDF",
+  "metadata": {
+    "system_framework": "SSISM / MYISM Internal Study",
+    "lecture_focus": "Epistemological Vectors, Core Attributes, and Cosmic Classifications of Knowledge",
+    "prepared_by": "U Ingar Soe",
+    "publication": "Bamar Enlightenment Journal",
+    "date": "29 June 2026",
+    "target_path": "core/Curriculum/Vijjadhora_Sentinel_Masterclass12.json",
+    "sha256_seal": "0a1283257f115cb07e9d4f59580ca8b2be595a8264b99e442c0b8928cf14af8"
+  },
+  "sections": [
+    {
+      "heading": "1. Etymological Vectors & Linguistic Definitions (ဝိဇ္ဇာဟူသော ဝေါဟာရအနက်အဓိပ္ပာယ်များ)",
+      "description": "The multi-faceted operational definitions of the Pali term 'Vijja' (ဝိဇ္ဇာ).",
+      "definitions": [
+        "သိခြင်း / သိတတ်သောသဘော (Knowing / To know)",
+        "သစ္စာလေးပါးနှင့်တကွ သိထိုက်သောတရားတို့ကို သိခြင်း (Knowing the Four Noble Truths and related dhammas)",
+        "ထိုးထွင်း၍ သိခြင်း / ခွဲခြား၍သိခြင်း (Comprehending / Understanding)",
+        "သဘောအားဖြင့် ထင်ရှားရှိခြင်း / အမှန်အတိုင်းရရှိခြင်း (Existing manifestly by nature / To be clearly acquired)",
+        "ထိုဉာဏ်ပညာဖြင့် အလုံးစုံကို သိမြင်နိုင်ခြင်း (Understanding through it)",
+        "အမှားအယွင်းမရှိ ထိုးထွင်းဉာဏ်ဖြင့် သိမြင်ခြင်း (Penetratingly understanding through it)",
+        "သိထိုက်သော သဘောတရား (That which ought to be known)",
+        "ရယူဆည်းပူးထိုက်သော အတတ်ပညာ (That which ought to be acquired)",
+        "ရောက်အပ်သော ဘုံတရားသို့ ရောက်စေခြင်း (Attaining the realm that ought to be attained)",
+        "အဝိဇ္ဇာအမှောင်ထုကို ပယ်ဖျက်၍ ထိုးထွင်းသိမြင်ခြင်း (Knowing through the sense of penetrative understanding)",
+        "ဉာဏ်မြင်ဖြင့် အမှန်ကိုသိခြင်း (Knowing that which is to be known)",
+        "ဓမ္မတို့၏ သဘာဝလက္ခဏာနှင့် သာမညလက္ခဏာ နှစ်ရပ်လုံးကို သိမြင်ခြင်း (Knowing both the specific and universal characteristics of the Dhammas)",
+        "မျက်မှောက်ပြု၍ သိခြင်း (Comprehending / Realizing)",
+        "အတတ်ပညာ သို့မဟုတ် အသိဉာဏ်ကို ရရှိခြင်း (Knowing or obtaining)",
+        "အမိုက်မှောင် (မောဟ) ကို ဖျောက်ဖျက်ခြင်း (Dispelling darkness / ignorance)",
+        "မိမိနှင့် ဆန့်ကျင်ဘက်ဖြစ်သော အဝိဇ္ဇာကို အမြစ်ပြတ်ပယ်သတ်ခြင်း (Eradicating its own opposite / avijja)",
+        "တရားသဘောကို ထင်ရှားလင်းလက်စေခြင်း (Making manifest / Bringing into clarity)"
+      ]
+    },
+    {
+      "heading": "2. The 18 Mundane Arts and Sciences of Men (လူတို့၏ လောကီအတတ်ပညာ ၁၈ ရပ်)",
+      "description": "Secular technical frameworks, operational crafts, and institutional knowledge systems.",
+      "items": [
+        { "id": 1, "name": "Suti (သုတိ)", "definition": "ဗေဒင်ကျမ်းဂန် သုံးပုံကို သိသောအတတ် (Knowledge of the Vedic scriptures: Iru, Yaju, Sama)" },
+        { "id": 2, "name": "Sammuti (သမ္မုတိ)", "definition": "တရားဥပဒေ၊ ဖြတ်ထုံးနှင့် မနုဓမ္မသတ်ကျမ်းတို့ကို သိသောအတတ် (Knowledge of legal treatises and jurisprudence)" },
+        { "id": 3, "name": "Sankhya (သင်္ချာ)", "definition": "ဂဏန်းသင်္ချာ၊ ရေတွက်ခြင်းနှင့် စံနှုန်းစနစ်ဆိုင်ရာအတတ် (Knowledge of mathematics and numerical systems)" },
+        { "id": 4, "name": "Yoga (ယောဂ)", "definition": "နိုင်ငံပြုဗျူဟာ၊ အုပ်ချုပ်မှုအတတ်နှင့် လက်မှုကုသလအတတ် (Knowledge of statecraft, strategy, and craftsmanship)" },
+        { "id": 5, "name": "Niti (နီတိ)", "definition": "ကျင့်ဝတ်သိက္ခာ၊ လူမှုစည်းကမ်းနှင့် လမ်းညွှန်နီတိကျမ်းများ (Knowledge of ethics, moral codes, and conduct)" },
+        { "id": 6, "name": "Visesika (ဝိသေသီကာ)", "definition": "ကဏာဒအစရှိသော ဒဿနိကဗေဒဆိုင်ရာ အသိပညာ (Knowledge of Visesika philosophy)" },
+        { "id": 7, "name": "Ganika (ဂဏိကာ)", "definition": "ကောင်းကျိုးဆိုးပြစ်ကို ကြိုတင်ခန့်မှန်းနိုင်သော နက္ခတ္တဗေဒအတတ် (Knowledge of astronomy and astrology for forecasting)" },
+        { "id": 8, "name": "Gandhabba (ဂန္ဓဗ္ဗ)", "definition": "စောင်း၊ စည် အစရှိသော တူရိယာတီးမှုတ်ခြင်းနှင့် ကဗျာလင်္ကာဖွဲ့ဆိုခြင်းအတတ် (Knowledge of music and performing arts)" },
+        { "id": 9, "name": "Tikiccha (တိကိစ္ဆာ)", "definition": "ရောဂါဝေဒနာတို့ကို ကုသပျောက်ကင်းစေသော ဆေးဝါးဗေဒအတတ် (Knowledge of medicine and healing sciences)" },
+        { "id": 10, "name": "Catubbeda (စတုဗ္ဗေဒ)", "definition": "လေးအတတ်အပါအဝင် သေနင်္ဂဗျူဟာ လေးရပ်ဆိုင်ရာအတတ် (Knowledge of the four branches of lore, including archery and warfare)" },
+        { "id": 11, "name": "Puruna (ပုရုဏာ)", "definition": "ရှေးဟောင်းကမ္ဘာဦးကျမ်းများနှင့် ပုရာဏ်ကျမ်းလာ အသိပညာ (Knowledge of ancient chronicles and Puranas)" },
+        { "id": 12, "name": "Itihasa (ဣတိဟာသ)", "definition": "ရာဇဝင်သမိုင်းနှင့် ရှေးဖြစ်ဟောင်း နှုတ်ကပတ်တော်များ (Knowledge of history and ancient lore)" },
+        { "id": 13, "name": "Jotisa (ဇောတိသ)", "definition": "ဂြိုဟ်နက္ခတ်တာရာတို့၏ သွားလာလှုပ်ရှားမှုကို တွက်ချက်သောအတတ် (Knowledge of astrology and planetary movements)" },
+        { "id": 14, "name": "Maya (မာယာ)", "definition": "လှည့်စားတတ်သော မျက်လှည့်အတတ်နှင့် ဣန္ဒြဇာလအတတ် (Knowledge of illusions, magic tricks, and prestidigitation)" },
+        { "id": 15, "name": "Ketu (ကေတု)", "definition": "အတိတ်၊ နိမိတ်၊ တဘောင်နှင့် လက္ခဏာတို့ကို ခွဲခြားသိမြင်သောအတတ် (Knowledge of signs, omens, and consequences)" },
+        { "id": 16, "name": "Mantana (မန္တနာ)", "definition": "ဂါထာမန္တန်၊ အင်းအိုင်များနှင့် အသံထွက်အစီအရင်အတတ် (Knowledge of mantras, incantations, and Tantric vocalizations)" },
+        { "id": 17, "name": "Yuddha (ယုဒ္ဓါ)", "definition": "စစ်ဆင်ရေးဗျူဟာ၊ စစ်တုရင်ဆင်နည်းနှင့် တိုက်ခိုက်ရေးအတတ် (Knowledge of military strategy, tactics, and warfare)" },
+        { "id": 18, "name": "Chandasa (ဆန္ဒသာ)", "definition": "ဆန်းကျမ်း၊ ကဗျာစပ်နည်းနှင့် သီကုံးမှုအလင်္ကာအတတ် (Knowledge of prosody, metrics, and poetic rhythm)" }
+      ]
+    },
+    {
+      "heading": "3. Transcendent Buddhist Cognitive Systems (လောကုတ္တရာ ဗုဒ္ဓဘာသာဆိုင်ရာ ဉာဏ်စနစ်များ)",
+      "threefold_knowledge_vijja_3": [
+        "Pubbenivasanussati-nana: ရှေးဖြစ်ဟောင်း ဘဝပေါင်းများစွာကို ပြန်လည်အောက်မေ့သိမြင်နိုင်သောဉာဏ် (Knowledge of recollecting past existences/lives)",
+        "Dibbacakkhu-nana: သတ္တဝါတို့၏ စုတေမှု၊ ပဋိသန္ဓေယူမှုနှင့် နတ်မျက်စိကဲ့သို့ အပိတ်အပင်မရှိ မြင်နိုင်သောဉာဏ် (The Divine Eye; knowledge of the passing away and rebirth of sentient beings)",
+        "Asavakkhaya-nana: စိတ်ကိုညစ်နွမ်းစေတတ်သော အာသဝေါတရားတို့ အကုန်အစင်ခမ်းခြောက်စေသော အရဟတ္တမဂ်ဉာဏ် (Knowledge of the destruction of all mental fermentations; Arahattamagga-nana)"
+      ],
+      "sixfold_knowledge_vijja_6_abhinna": [
+        "Iddhividha-nana: တန်ခိုးဖန်ဆင်းခြင်းဆိုင်ရာ အဘိညာဉ်ဉာဏ် (Knowledge of psychic powers and transformations)",
+        "Dibbasota-nana: နတ်သောတကဲ့သို့ သိမ်မွေ့သောအသံတို့ကို ကြားနိုင်သောဉာဏ် (The Divine Ear; knowledge of hearing subtle sounds)",
+        "Cetopariya-nana: သူတစ်ပါး၏ စိတ်အကြံအစည်ကို ပိုင်းခြားသိနိုင်သောဉာဏ် (Knowledge of telepathy / discerning the minds of others)",
+        "Pubbenivasa-nana: ရှေးဘဝဖြစ်စဉ်ကို သိသောဉာဏ် (Knowledge of recollecting past existences)",
+        "Dibbacakkhu-nana: အပိတ်အပင်မရှိ ကွင်းကွင်းကွက်ကွက် မြင်နိုင်သောဉာဏ် (The Divine Eye / clear vision)",
+        "Asavakkhaya-nana: ကိလေသာကို ကုန်ခမ်းစေတတ်သော အမြင့်ဆုံးဉာဏ် (Knowledge of the destruction of mental defilements)"
+      ],
+      "eightfold_knowledge_vijja_8": [
+        "Vipassana-nana: ရုပ်နာမ်ဓမ္မတို့၏ အနိစ္စ၊ ဒုက္ခ၊ အနတ္တကို ရှုမြင်သောဉာဏ် (Knowledge of insight / penetrative vision)",
+        "Manomayiddhi-nana: စိတ်ဖြင့်ပြီးသော တန်ခိုးကို ဖန်ဆင်းနိုင်သောဉာဏ် (Mind-made psychic powers / creation by willpower)",
+        "Iddhividha-nana: အမျိုးမျိုးသော တန်ခိုးပြာဋိဟာရဉာဏ် (Knowledge of various psychic powers)",
+        "Dibbasota-nana: ဝေးလံသိမ်မွေ့သော အသံပေါင်းစုံကို ကြားနိုင်သောဉာဏ် (The Divine Ear / hearing all types of sounds)",
+        "Cetopariya-nana: သူတစ်ပါးစိတ်ကို ကုန်စင်အောင် ဖတ်နိုင်သောဉာဏ် (Knowledge of reading others' minds)",
+        "Pubbenivasanussati-nana: အတိတ်ဘဝများကို ပြန်လည်ဆင်ခြင်နိုင်သောဉာဏ် (Knowledge of recollecting past existences)",
+        "Dibbacakkhu-nana: စကြဝဠာအဆုံးတိုင် မြင်နိုင်သော နတ်မျက်စိဉာဏ် (The Divine Eye / clear vision)",
+        "Asavakkhaya-nana: ကိလေသာအာသဝေါတို့ကို အမြစ်ပြတ်သတ်သော အရဟတ္တမဂ်ဉာဏ် (Knowledge of the destruction of defilements; Arahattamagga-nana)"
+      ]
+    },
+    {
+      "heading": "4. Specialized Metaphysical & Epistemic Core Definitions (အဆင့်မြင့်သဘာဝလွန်နှင့် သိမှုဗေဒဆိုင်ရာ အဓိပ္ပာယ်ဖွင့်ဆိုချက်များ)",
+      "sub_sections": [
+        {
+          "title": "Abhinna and Samapatti Core Alignment (အဘိညာဉ်နှင့် သမာပတ် ချိတ်ဆက်မှု)",
+          "fact": "ဝိဇ္ဇာဟူသည် အဘိညာဉ် ၅ ပါးနှင့် သမာပတ် ၈ ပါးတို့မှ ထွက်ပေါ်လာသော အဆင့်မြင့်အသိဉာဏ်ကို တိုက်ရိုက်ရည်ညွှန်းသည်။ (Vijja refers directly to the insight derived from the 5 Abhinna and 8 Samapatti.)"
+        },
+        {
+          "title": "Magga-nana / Magga-panna (မဂ်ဉာဏ်၊ မဂ်ပညာ)",
+          "fact": "သစ္စာလေးပါးကို ကွင်းကွက်ပုံဖော်၍ ကိလေသာအားလုံးကို အကြွင်းမဲ့ပယ်သတ်သည့် 'အရဟတ္တမဂ်ဉာဏ်' ကို ဝိဇ္ဇာဟုခေါ်သည်။ (Vijja represents the Magga-nana / Arahattamagga-nana that eliminates defilements.)"
+        },
+        {
+          "title": "Phala-nana / Phala-panna (ဖိုလ်ဉာဏ်၊ ဖိုလ်ပညာ)",
+          "fact": "မဂ်၏အကျိုးကျေးဇူးကြောင့် ဖြစ်ပေါ်လာသော ငြိမ်းအေးမှု 'ဖိုလ်ဉာဏ်' ကိုလည်း ဝိဇ္ဇာဟု သတ်မှတ်သည်။ (Vijja denotes the Phala-nana / Fruition Knowledge.)"
+        },
+        {
+          "title": "The 5 Spiritual Faculties (ဣန္ဒြေ ၅ ပါး)",
+          "fact": "အရဟတ္တဖိုလ်အဆင့်ရှိ ဣန္ဒြေ ၅ ပါး (သဒ္ဓါ၊ ဝီရိယ၊ သတိ၊ သမာဓိ၊ ပညာ) သည် ပညာကို ပံ့ပိုးပေးသောကြောင့် ဝိဇ္ဇာဟူ၍ ခေါ်ဆိုထိုက်သည်။ (The 5 Spiritual Faculties are regarded as Vijja as they actively support wisdom.)"
+        },
+        {
+          "title": "Kammassakata-nana (ကမ္မဿကတာဉာဏ်)",
+          "fact": "မိမိပြုသော ကံသာလျှင် မိမိ၏ ကိုယ်ပိုင်ဥစ္စာဖြစ်သည်ဟု အမှန်အတိုင်း ပိုင်းခြားသိသောဉာဏ်။ (Vijja refers to the distinct knowledge that one's own intentional actions are one's only true property.)"
+        },
+        {
+          "title": "Samma-ditthi & Samma-sankappa (သမ္မာဒိဋ္ဌိ နှင့် သမ္မာသင်္ကပ္ပ)",
+          "fact": "မှန်ကန်သော အမြင်နှင့် မှန်ကန်သော ကြံစည်မှုတို့၏ စုံလင်စွာ ပေါင်းစပ်ခြင်းကို ဝိဇ္ဇာဟု ဆိုသည်။ (Vijja signifies Right View combined harmoniously with Right Resolve.)"
+        },
+        {
+          "title": "Secular Arts, Mantras & Lore (လောကီဂါထာမန္တန်နှင့် အတတ်ပညာများ)",
+          "points": [
+            "ဂါထာမန္တန်နှင့် မန္တန်အတတ်တို့ကို စုံလင်စွာ တတ်မြောက်ခြင်း (Expertise and mastery of mantras / spells)",
+            "အစီအရင်နှင့် ဆေးဝါးဗေဒဆိုင်ရာ ကျမ်းဂန်စုများ (Collections of magical or ritualistic texts)",
+            "ဗေဒင်သုံးပုံ (ဣရု၊ ယဇု၊ သာမ) (The Three Vedas)",
+            "မြွေဆိပ်၊ ကင်းဆိပ် အစရှိသော အဆိပ်အတောက် ကုသခြင်းအတတ် (Practical arts, such as curing snake venom)",
+            "ဆင်၊ မြင်း အစရှိသော တိရစ္ဆာန်တို့ကို ဆုံးမထိန်းကျောင်းသော အတတ်ပညာ (Specialized knowledge regarding animals)"
+          ]
+        },
+        {
+          "title": "Textual Canonical Alignment (ကျမ်းဂန်လာအထောက်အထား)",
+          "fact": "ပိဋကတ်တော်လာ ဝိဇ္ဇာသုတ်ဟု အမည်တွင်သော သုတ်လေးသုတ်ကို တိုက်ရိုက်ကိုယ်စားပြုနိုင်သည်။ (Vijja can refer to the specific 4 Suttas named the Vijja Suttas.)"
+        }
+      ]
+    },
+    {
+      "heading": "5. Vijjamagga Dipani & The 5 Essential Attributes (ဝိဇ္ဇာမဂ္ဂဒီပနီ နှင့် အရိယဝိဇ္ဇာ၏ အင်္ဂါ ၅ ပါး)",
+      "five_classes_of_vijja": [
+        "ဝေဒဝိဇ္ဇာ (နက္ခတ်ဗေဒင်နှင့် လောကီအတတ်) (Veda-vijja)",
+        "မန္တဝိဇ္ဇာ (ဂါထာမန္တန်နှင့် မန္တန်စွမ်းအား) (Manta-vijja)",
+        "ဂန္ဓာရီဝိဇ္ဇာ (ဆေး၊ အင်း၊ ပြာဋိဟာရ သိဒ္ဓိအတတ်) (Gandhari-vijja)",
+        "လောကီယဝိဇ္ဇာ (ဈာန်သမာပတ်ကို အခြေခံသော အဘိညာဉ်) (Lokiya-vijja)",
+        "အရိယဝိဇ္ဇာ (မဂ်၊ ဖိုလ်၊ နိဗ္ဗာန်သို့ ရောက်စေသော အမြင့်ဆုံးလောကုတ္တရာပညာ - ဗုဒ္ဓသာသနာတွင်း၌သာ ရနိုင်သည်) (Ariya-vijja)"
+      ],
+      "five_essential_attributes_for_ariya_vijja": [
+        {
+          "anga": 1,
+          "name": "ဘုရားရှင်အပေါ် မလှုပ်မရည် သက်ဝင်ယုံကြည်ခြင်း",
+          "description": "သဗ္ဗညုတဉာဏ်တော်အပေါ် လုံးဝဥဿုံ သက်ဝင်ယုံကြည်သည့် သဒ္ဓါတရား။ (Total conviction and confidence in the Buddha's supreme, self-enlightened wisdom.)"
+        },
+        {
+          "anga": 2,
+          "name": "ကျန်းမာကြံ့ခိုင်ပြီး အစာကြေညက်သော ခန္ဓာကိုယ်ရှိခြင်း",
+          "description": "ဝိပဿနာရှုမှတ်ရန် baseline အထောက်အပံ့ဖြစ်သော ပါစကဓာတ် မျှတခြင်း။ ပူဇော်ထိုက်သူကို ပူဇော်ခြင်းဖြင့် အသက်ရှည်ခြင်း၊ အဆင်းလှခြင်း၊ ချမ်းသာခြင်း၊ ခွန်အားကြီးခြင်းတို့ကို ရရှိစေသည်။ (Possessing a healthy body with a balanced digestive heat; respecting those worthy of veneration yields longevity, beauty, happiness, and strength.)"
+        },
+        {
+          "anga": 3,
+          "name": "ကောက်ကျစ်စဉ်းလဲမှုမရှိဘဲ စိတ်နှလုံး ဖြောင့်မတ်ခြင်း",
+          "description": "ဆရာသမားအပေါ် မိမိ၏ တကယ့်အခြေအနေမှန်ကို ဝှက်ကွယ်မှုမရှိဘဲ ပွင့်လင်းရိုးသားစွာ တင်ပြခြင်း။ (Being completely honest, without deceit or hypocrisy; opening up one's true spiritual state transparently.)"
+        },
+        {
+          "anga": 4,
+          "name": "ထက်သန်ပြင်းပြသော ဝီရိယရှိခြင်း",
+          "description": "အကုသိုလ်ကိုပယ်၍ ကုသိုလ်ကို ပြီးပြည့်စုံစေရန် ကိလေသာအဆိပ်အတောက် ကုန်ခမ်းသည်အထိ မလျှော့သောလုံ့လဖြင့် အားထုတ်ခြင်း။ (Exerting relentless, unflagging effort to eradicate unwholesome states until the poisons of defilements are exhausted.)"
+        },
+        {
+          "anga": 5,
+          "name": "ဝိပဿနာဉာဏ်အမြင်နှင့် ပြည့်စုံခြင်း",
+          "description": "ရုပ်နာမ်တို့၏ ဖြစ်ပျက်ကို ထိုးထွင်းသိမြင်သောဉာဏ်ဖြစ်ပြီး တိဟိတ်ပုဂ္ဂိုလ်များသာ ရရှိနိုင်သည်။ (The internal wisdom to penetratingly perceive the continuous arising and passing away; accessible to Tihetuka individuals.)"
+        }
+      ]
+    },
+    {
+      "heading": "6. Architectural Integration: The Seed Framework (မျိုးစေ့ဗိသုကာ ပေါင်းစပ်မှုစနစ်)",
+      "seed_types": {
+        "seed_of_carana": {
+          "analogy": "ခြေထောက်နှင့်တူ (Feet)",
+          "components": "အကျင့်သိက္ခာ၊ သီလ နှင့် သမာဓိ (Practical conduct, Sila, and Samadhi)",
+          "effect": "ဘုရားရှင်၏ သာသနာတော်၊ အဆုံးအမနှင့် သူတော်ကောင်းများနှင့် တွေ့ဆုံခွင့်ရခြင်း (Gains opportunities to encounter the Buddha's Sasana and noble mentors)"
+        },
+        "seed_of_vijja": {
+          "analogy": "မျက်စိနှင့်တူ (Eyes)",
+          "components": "ပညာပါရမီ နှင့် ထိုးထွင်းဉာဏ် (The perfection of wisdom and insight / Panna-parami)",
+          "effect": "တရားတော်ကို ကြားနာရရုံမျှဖြင့် ပရမတ္ထသစ္စာကို ထိုးထွင်းသိမြင်နိုင်စွမ်းရှိခြင်း (Possesses the innate capability to penetratingly comprehend ultimate truth upon hearing the Dhamma)"
+        }
+      },
+      "historical_system_failures": [
+        "မဟာဓနသူဌေးသားနှင့် ဇနီး: ဝိဇ္ဇာမျိုးစေ့ ရှိသော်လည်း စရဏမျိုးစေ့ ချို့တဲ့သဖြင့် တရားထူးမရဘဲ ဆုံးရှုံးခဲ့ရသည်။ (Possessed the Seed of Vijja but lacked the Seed of Carana, failing to attain the Dhamma.)",
+        "သစ္စကပရိဗိုဇ်: စရဏမျိုးစေ့ ရှိသော်လည်း ဝိဇ္ဇာမျိုးစေ့ အားနည်းသဖြင့် ထိုဘဝ၌ တရားထူး မရရှိခဲ့ပေ။ (Possessed the Seed of Carana but was weak in the Seed of Vijja, preventing Dhamma attainment in that lifetime.)"
+      ],
+      "primary_vector_for_disciples": {
+        "core_requirement": "ဝိပဿနာဉာဏ် (Vipassana-nana / Insight Knowledge)",
+        "critical_insight": "အခြားသော တန်ခိုးဆိုင်ရာ ဝိဇ္ဇာအတတ်များကို မရရှိစေကာမူ ရင့်ကျက်သော ဝိပဿနာဉာဏ်တစ်ခုတည်းဖြင့် သာဝကတစ်ဦးကို နိဗ္ဗာန်သို့ အရောက်ပို့ဆောင်နိုင်သည်။ ၎င်းသည် ပဋိသမ္ဘီဒါဉာဏ်ရရှိရန်အတွက် မရှိမဖြစ်လိုအပ်သော ပုဗ္ဗယောဂ (အခြေခံကျင့်စဉ်) ဖြစ်သည်။ (Even without other psychic branches of Vijja, a highly matured Vipassana-nana alone is entirely sufficient to deliver a Savaka to Nibbana; it serves as the fundamental practice required for Patisambhida-nana.)"
+      }
+    }
+  ]
+}
