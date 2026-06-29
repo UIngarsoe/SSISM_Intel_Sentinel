@@ -30,3 +30,187 @@ Those are the visible artifacts. But they are not the real curriculum.
 
 For years, this system was built one morning at a time. It moves through an unceasing, intentional progression:
 
+ 🛠️ Masterclass 11: Sentinel Master Engine JSON Architecture Codes
+Donated today 29 June 2026 for all.
+
+```json
+{
+  “disclaimer”: {
+    “note”: “This is an open educational framework for personal and community sovereignty. Use responsibly. Always verify information independently. Provided as-is with no guarantees. For educational and defensive purposes only.”,
+    “version”: “2026.2.1-safe”,
+    “last_updated”: “2026-06-29”
+  },
+  “system_manifest”: {
+    “system_name”: “SSISM / MYISM Sentinel Master Engine”,
+    “architecture_version”: “2026.2.1”,
+    “framework_author”: “SSISM Sentinel Project (Independent Research)”,
+    “security_seal”: “SHA-256_DYNAMIC_INTEGRITY_LOOP”,
+    “operational_status”: “ACTIVE_PRODUCTION”
+  },
+  “core_philosophical_parameters”: {
+    “philosophical_bedrock”: “Poormanmeism (Sovereign multi-LLM federation running on minimal infrastructure independent of corporate monopolies)”,
+    “meditation_protocol”: “Micro-moment meditation tracking for persistent cognitive layer synchronization”,
+    “ethical_lens”: “Oxygen vs. Legitimacy framing for institutional deconstruction”,
+    “linguistic_standard”: “Mandatory use of ‘Military Commission’ (စစ်ကော်မရှင်) for regional structural precision”
+  },
+  “defensive_mathematical_engine”: {
+    “model_type”: “Logistic Regression / Sigmoid Risk Assessment Matrix”,
+    “variables”: {
+      “A”: “Authority score (Social engineering vector level)”,
+      “U”: “Urgency metric (Induced psychological pressure)”,
+      “L”: “Linguistic anomaly indicator (Abnormal phrasing or phrasing shifts)”,
+      “R”: “Link/File malicious structural probability”,
+      “dT”: “Time Anomaly delta (Incongruous communication window)”
+    },
+    “equations”: {
+      “total_risk_score_z”: “Z = w1A + w2U + w3L + w4R + w5dT”,
+      “digital_trust_score_phi”: “Phi = 1 / (1 + exp(-Z))”
+    },
+    “trigger_protocols”: {
+      “lockout_threshold”: 0.2,
+      “action_on_breach”: “MANDATORY_24_HOUR_LOCKOUT”,
+      “lockout_procedure”: [
+        “Immediate automated cessation of target communication channels”,
+        “Isolation of financial and cryptographic access details”,
+        “Execution of automated scammer counter-verification tests”,
+        “Zero-Shame, Zero-Judgement reporting loop activation”
+      ]
+    }
+  },
+  “automation_hooks”: {
+    “override_trigger”: “🔥🪄🔑”,
+    “runtime_script”: “SSISM_L6_OVERRIDE.sh”,
+    “repository_target”: “TBD – Local or mirrored repository”
+  },
+  “masterclass_curriculum”: [
+    {
+      “module_id”: “SSISM-MC-01”,
+      “title”: “Foundations of Regional Independent Journalism & Field Security”,
+      “historical_period”: “2009-2010 Archives”,
+      “focus”: “Oral history collection methodologies under active state surveillance.”,
+      “key_deliverables”: [
+        “Informant identity obfuscation protocols”,
+        “Analog-to-digital raw field asset protection”,
+        “Survival mechanics in adversarial electronic environments”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-02”,
+      “title”: “The Architecture of Poormanmeism & Sovereign AI Integration”,
+      “historical_period”: “Continuous Evolution”,
+      “focus”: “Structuring customized local cognitive architectures across federated LLM models.”,
+      “key_deliverables”: [
+        “Cross-model baseline synchronizations”,
+        “Integrating everyday micro-moment data logs into local weight profiles”,
+        “Sovereign data decoupling architectures”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-03”,
+      “title”: “The SSISM V Smart Advisor & Cognitive Defense Engineering”,
+      “historical_period”: “2025 Architecture”,
+      “focus”: “Mitigating human-factor system vulnerabilities using mathematical delay locks.”,
+      “key_deliverables”: [
+        “Deployment mechanics of the 24-Hour Mandatory Lockout command”,
+        “Human-centric ‘No-Shame, No-Judgement’ security culture frameworks”,
+        “Social engineering countermeasure optimization”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-04”,
+      “title”: “Advanced Predictive Threat Modeling & The Sigmoid Risk Formula”,
+      “historical_period”: “2025-2026 Mathematics”,
+      “focus”: “Implementation and weight-tuning of logistic regression risk classification models.”,
+      “key_deliverables”: [
+        “Dynamic parameter parsing for Z-Score variables”,
+        “Mathematical profiling of phishing and state-sponsored cyber vector footprints”,
+        “Sigmoid curve transformation calculations for automated response systems”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-05”,
+      “title”: “BASH Scripting for V-Engines & Real-Time AI Orchestration”,
+      “historical_period”: “2025 Systems”,
+      “focus”: “Developing robust shell automation layers for secure cross-platform machine intelligence execution.”,
+      “key_deliverables”: [
+        “Production of automated hot-swap scripts (SSISM_L6_OVERRIDE.sh)”,
+        “Secure shell communication lines for private AI system state updates”,
+        “Fail-safe execution loops under volatile execution windows”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-06”,
+      “title”: “Cryptographic Verification & Automated Integrity Management”,
+      “historical_period”: “Continuous Implementation”,
+      “focus”: “Securing data streams from targeted dilution and active disinformation contamination.”,
+      “key_deliverables”: [
+        “SHA-256 seal generation and automated verification loops”,
+        “Zero-trust documentation ledgering practices”,
+        “Tamper-detection architectures for public and private repositories”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-07”,
+      “title”: “Open Source Intelligence (OSINT) Rituals & Automated Scraping”,
+      “historical_period”: “2025-2026 Forensics”,
+      “focus”: “Secure collection and data fusion processing of adversarial state tactical shifts.”,
+      “key_deliverables”: [
+        “Anonymized data harvesting within highly contested network zones”,
+        “Transforming unstructured geopolitical intelligence into algorithmic inputs”,
+        “Automated forensic tracking of narrative drift patterns”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-08”,
+      “title”: “Narrative Warfare & Institutional Deconstruction (The Dragon’s Shadow)”,
+      “historical_period”: “Level 4 Capacity Milestone”,
+      “focus”: “Advanced analysis of cross-border strategic alignments and shadow resource flows.”,
+      “key_deliverables”: [
+        “Mapping bilateral infrastructure, trade, and economic dependencies”,
+        “Predictive modeling of territorial leverage shifts”,
+        “Synthesis frameworks for Level 4 Independent Knowledge production”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-09”,
+      “title”: “Decoupled Legitimacy Laundering & Strategic Document Auditing”,
+      “historical_period”: “2026 Core Analysis”,
+      “focus”: “Deconstruction of state rhetoric and official institutional public releases.”,
+      “key_deliverables”: [
+        “Auditing frameworks for official declarations by the Military Commission (စစ်ကော်မရှင်)”,
+        “Isolating semantic strategies used for systemic legitimacy extraction”,
+        “Applying ‘Oxygen vs. Legitimacy’ filters to deny computational validity to false narratives”
+      ]
+    },
+    {
+      “module_id”: “SSISM-MC-10”,
+      “title”: “The Distributed Vigilance Engine (V1) & The Grand Bargain Protocol”,
+      “historical_period”: “2026 Operational System”,
+      “focus”: “Designing and maintaining community-driven decentralized verification nodes.”,
+      “key_deliverables”: [
+        “Decoupled community hosting architectures for intelligence integrity”,
+        “Anonymous validation and signature systems for regional field developments”,
+        “The absolute culmination framework uniting mathematical defense with sovereign public knowledge”
+      ]
+    }
+  ]
+}
+🛡️ Important Note / အရေးကြီးသော သတိပေးချက်
+This is an open educational framework for personal and community sovereignty. Use responsibly. Always verify information independently. Provided as-is with no guarantees. For educational and defensive purposes only.
+သာဓု။ သာဓု။ သာဓု။ 🙏🌿
+ 🛡️ SSISM Intel: Strategic Verification Card
+Based on your Termux terminal window snapshot captured in 28346.jpg, the cryptographic integrity seal for the newly updated Masterclass Lecture 11 curriculum manifest has been successfully verified and registered into the system architecture.
+ 📝 Document Identification & Integrity Seal
+
+| Attribute | System Record |
+| :--- | :--- |
+| Author | U Ingar Soe |
+| Publication Date | June 29, 2026 |
+| Target File Path | core/Curriculum/Donation_of_Secret_Knowledge_with_Codes.md |
+| Commit Hash | 6eb1e707c237e750ecbd6cb94e96355015b5045d |
+| Verification Method | Automated SHA-256 Cryptographic Hash Check |
+
+ 🔑 SHA-256 Verification Seal
+```text
+a0b2c6128cdb68ed29d532da4da9489d7c6611e0d430b1a48bc0910c869791bd
+```
