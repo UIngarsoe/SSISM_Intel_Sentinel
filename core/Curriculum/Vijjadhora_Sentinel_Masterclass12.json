@@ -1,0 +1,186 @@
+{
+  "lecture_title": "Vijjadhora Sentinel Masterclass: The Architecture of Vijja",
+  "source_document": "ဝိဇ္ဇာ - ဝီကီပီးဒီးယား.PDF",
+  "metadata": {
+    "system_framework": "SSISM / MYISM Internal Study",
+    "lecture_focus": "Epistemological Vectors, Core Attributes, and Cosmic Classifications of Knowledge"
+  },
+  "sections": [
+    {
+      "heading": "1. Etymological Vectors & Linguistic Definitions",
+      "description": "The multi-faceted operational definitions of the Pali term 'Vijja' (ဝိဇ္ဇာ).",
+      "definitions": [
+        "Knowing / To know[span_0](start_span)[span_0](end_span)",
+        "Knowing the Four Noble Truths and related dhammas[span_1](start_span)[span_1](end_span)",
+        "Comprehending / Understanding[span_2](start_span)[span_2](end_span)",
+        "Existing manifestly by nature / To be clearly acquired[span_3](start_span)[span_3](end_span)",
+        "Understanding through it[span_4](start_span)[span_4](end_span)",
+        "Penetratingly understanding through it[span_5](start_span)[span_5](end_span)",
+        "That which ought to be known[span_6](start_span)[span_6](end_span)",
+        "That which ought to be acquired[span_7](start_span)[span_7](end_span)",
+        "Attaining the realm that ought to be attained[span_8](start_span)[span_8](end_span)",
+        "Knowing through the sense of penetrative understanding[span_9](start_span)[span_9](end_span)",
+        "Knowing that which is to be known[span_10](start_span)[span_10](end_span)",
+        "Knowing both the specific characteristics (salakkhana) and universal characteristics (samanyalakkhana) of the Dhammas[span_11](start_span)[span_11](end_span)",
+        "Comprehending / Realizing[span_12](start_span)[span_12](end_span)",
+        "Knowing or obtaining[span_13](start_span)[span_13](end_span)",
+        "Dispelling darkness (ignorance)[span_14](start_span)[span_14](end_span)",
+        "Eradicating its own opposite (avijja / ignorance)[span_15](start_span)[span_15](end_span)",
+        "Making manifest / Bringing into clarity[span_16](start_span)[span_16](end_span)"
+      ]
+    },
+    {
+      "heading": "2. The 18 Mundane Arts and Sciences of Men",
+      "description": "Secular technical frameworks, operational crafts, and institutional knowledge systems.",
+      "items": [
+        { "id": 1, "name": "Suti", "definition": "Knowledge of the Vedic scriptures (Iru, Yaju, Sama)[span_17](start_span)[span_17](end_span)" },
+        { "id": 2, "name": "Sammuti", "definition": "Knowledge of legal treatises and jurisprudence, such as the Manu Dhammathat[span_18](start_span)[span_18](end_span)" },
+        { "id": 3, "name": "Sankhya", "definition": "Knowledge of mathematics, counting, and numerical systems, such as the 'Sankhya Dasana' treatise[span_19](start_span)[span_19](end_span)" },
+        { "id": 4, "name": "Yoga", "definition": "Knowledge of statecraft/strategy ('Patanjali Yoga Dasana') and craftsmanship ('Hattha Dipaka')[span_20](start_span)[span_20](end_span)" },
+        { "id": 5, "name": "Niti", "definition": "Knowledge of ethics, moral codes, and conduct (Niti treatises)[span_21](start_span)[span_21](end_span)" },
+        { "id": 6, "name": "Visesika", "definition": "Knowledge of Visesika philosophy, such as the 'Kanada treatise[span_22](start_span)'[span_22](end_span)" },
+        { "id": 7, "name": "Ganika", "definition": "Knowledge of astronomy and astrology for forecasting good and bad fortune, such as the 'Byohit treatise[span_23](start_span)'[span_23](end_span)" },
+        { "id": 8, "name": "Gandhabba", "definition": "Knowledge of music and performing arts (playing drums, harp, composing poetry and verses), such as the 'Sangiti Mula treatise[span_24](start_span)'[span_24](end_span)" },
+        { "id": 9, "name": "Tikiccha", "definition": "Knowledge of medicine and healing sciences[span_25](start_span)[span_25](end_span)" },
+        { "id": 10, "name": "Catubbeda", "definition": "Knowledge of the four branches of lore (including Dhanubbeda, the art of archery and warfare)[span_26](start_span)[span_26](end_span)" },
+        { "id": 11, "name": "Puruna", "definition": "Knowledge of ancient chronicles and Puranas, such as the Brahma Purana[span_27](start_span)[span_27](end_span)" },
+        { "id": 12, "name": "Itihasa", "definition": "Knowledge of history and ancient lore, such as the 'Bharata treatise[span_28](start_span)'[span_28](end_span)" },
+        { "id": 13, "name": "Jotisa", "definition": "Knowledge of astrology and the movements of planets and constellations[span_29](start_span)[span_29](end_span)" },
+        { "id": 14, "name": "Maya", "definition": "Knowledge of illusions, magic tricks, and prestidigitation, such as the 'Indrajala treatise[span_30](start_span)'[span_30](end_span)" },
+        { "id": 15, "name": "Ketu", "definition": "Knowledge of various signs, omens, and their positive or negative consequences[span_31](start_span)[span_31](end_span)" },
+        { "id": 16, "name": "Mantana", "definition": "Knowledge of mantras, incantations, and the specific vocalizations of sounds, such as Tantric treatises[span_32](start_span)[span_32](end_span)" },
+        { "id": 17, "name": "Yuddha", "definition": "Knowledge of military strategy, tactics, and warfare[span_33](start_span)[span_33](end_span)" },
+        { "id": 18, "name": "Chandasa", "definition": "Knowledge of prosody, metrics, and poetic rhythm, such as the Vuttaratanakara treatise[span_34](start_span)[span_34](end_span)" }
+      ]
+    },
+    {
+      "heading": "3. Transcendent Buddhist Cognitive Systems",
+      "threefold_knowledge_vijja_3": [
+        "Pubbenivasanussati-nana (Knowledge of recollecting past existences/lives)[span_35](start_span)[span_35](end_span)",
+        "Dibbacakkhu-nana (The Divine Eye; knowledge of the passing away and rebirth of sentient beings)[span_36](start_span)[span_36](end_span)",
+        "Asavakkhaya-nana (Knowledge of the destruction of all mental fermentations/defilements; Arahattamagga-nana)[span_37](start_span)[span_37](end_span)"
+      ],
+      "sixfold_knowledge_vijja_6_abhinna": [
+        "Iddhividha-nana (Knowledge of psychic powers and transformations)[span_38](start_span)[span_38](end_span)",
+        "Dibbasota-nana (The Divine Ear; knowledge of hearing various subtle sounds)[span_39](start_span)[span_39](end_span)",
+        "Cetopariya-nana (Knowledge of telepathy / discerning the minds of others)[span_40](start_span)[span_40](end_span)",
+        "Pubbenivasa-nana (Knowledge of recollecting past existences)[span_41](start_span)[span_41](end_span)",
+        "Dibbacakkhu-nana (The Divine Eye / clear vision)[span_42](start_span)[span_42](end_span)",
+        "Asavakkhaya-nana (Knowledge of the destruction of mental defilements)[span_43](start_span)[span_43](end_span)"
+      ],
+      "eightfold_knowledge_vijja_8": [
+        "Vipassana-nana (Knowledge of insight / penetrative vision)[span_44](start_span)[span_44](end_span)",
+        "Manomayiddhi-nana (Mind-made psychic powers / creation by willpower)[span_45](start_span)[span_45](end_span)",
+        "Iddhividha-nana (Knowledge of various psychic powers)[span_46](start_span)[span_46](end_span)",
+        "Dibbasota-nana (The Divine Ear / hearing all types of sounds)[span_47](start_span)[span_47](end_span)",
+        "Cetopariya-nana (Knowledge of reading others' minds)[span_48](start_span)[span_48](end_span)",
+        "Pubbenivasanussati-nana (Knowledge of recollecting past existences)[span_49](start_span)[span_49](end_span)",
+        "Dibbacakkhu-nana (The Divine Eye / clear vision)[span_50](start_span)[span_50](end_span)",
+        "Asavakkhaya-nana (Knowledge of the destruction of defilements; Arahattamagga-nana)[span_51](start_span)[span_51](end_span)"
+      ]
+    },
+    {
+      "heading": "4. Specialized Metaphysical & Epistemic Core Definitions",
+      "sub_sections": [
+        {
+          "title": "Abhinna and Samapatti Core Alignment",
+          "fact": "Vijja refers directly to the insight/knowledge derived from the 5 Abhinna (Higher Psychic Knowledges) and the 8 Samapatti (8 Meditative Jhanas)[span_52](start_span)[span_52](end_span)."
+        },
+        {
+          "title": "Magga-nana / Magga-panna (Path Wisdom)",
+          "fact": "Vijja represents the Magga-nana or Magga-panna (specifically Arahattamagga-nana)—the path knowledge that eliminates all defilements by thoroughly realizing the Four Noble Truths[span_53](start_span)[span_53](end_span)."
+        },
+        {
+          "title": "Phala-nana / Phala-panna (Fruition Wisdom)",
+          "fact": "Vijja denotes the Phala-nana or Phala-panna (Fruition Knowledge)[span_54](start_span)[span_54](end_span)."
+        },
+        {
+          "title": "The 5 Spiritual Faculties (Indriya)",
+          "fact": "The 5 Spiritual Faculties present within the stage of Arahatta-phala (Faith, Energy, Mindfulness, Concentration, and Wisdom) are also regarded as Vijja because they actively support wisdom[span_55](start_span)[span_55](end_span)."
+        },
+        {
+          "title": "Kammassakata-nana",
+          "fact": "Vijja refers to Kammassakata-nana—the distinct knowledge that one's own intentional actions (kamma) are one's only true property[span_56](start_span)[span_56](end_span)."
+        },
+        {
+          "title": "Samma-ditthi & Samma-sankappa",
+          "fact": "Vijja signifies Samma-ditthi (Right View) as well as the harmonious combination of both Samma-ditthi and Samma-sankappa[span_57](start_span)[span_57](end_span)."
+        },
+        {
+          "title": "Secular Arts, Mantras & Lore",
+          "points": [
+            "Expertise and mastery of mantras / spells[span_58](start_span)[span_58](end_span)",
+            "Collections of magical or ritualistic texts[span_59](start_span)[span_59](end_span)",
+            "The Three Vedas (Iru, Yaju, Sama)[span_60](start_span)[span_60](end_span)",
+            "Practical arts, such as the science of curing snake venom[span_61](start_span)[span_61](end_span)",
+            "Specialized knowledge regarding animals, such as elephant and horse mastery sciences[span_62](start_span)[span_62](end_span)"
+          ]
+        },
+        {
+          "title": "Textual Canonical Alignment",
+          "fact": "Vijja can refer to the specific 4 Suttas named the Vijja Suttas[span_63](start_span)[span_63](end_span)."
+        }
+      ]
+    },
+    {
+      "heading": "5. Vijjamagga Dipani & The 5 Essential Attributes (Angas)",
+      "five_classes_of_vijja": [
+        "Veda-vijja (astrology/Vedic lore)[span_64](start_span)[span_64](end_span)",
+        "Manta-vijja (mundane esoteric arts)[span_65](start_span)[span_65](end_span)",
+        "Gandhari-vijja (psychic/magical accomplishments)[span_66](start_span)[span_66](end_span)",
+        "Lokiya-vijja (jhana-based higher psychic knowledges)[span_67](start_span)[span_67](end_span)",
+        "Ariya-vijja (the noble wisdom leading to Path, Fruition, and Nibbana) — the supreme transcendent wisdom obtainable exclusively within the Buddha's Dispensation[span_68](start_span)[span_68](end_span)"
+      ],
+      "five_essential_attributes_for_ariya_vijja": [
+        {
+          "anga": 1,
+          "name": "Unshakable Faith in the Buddha",
+          "description": "Total conviction and confidence in the Buddha's supreme, self-enlightened wisdom[span_69](start_span)[span_69](end_span)."
+        },
+        {
+          "anga": 2,
+          "name": "Physical Health and Robustness",
+          "description": "Possessing a healthy body with a balanced digestive heat (Pasaka-dhathu) capable of processing food; critical baseline support for Vipassana meditation[span_70](start_span)[span_70](end_span). Respecting those worthy of veneration yields longevity, beauty, happiness, and strength[span_71](start_span)[span_71](end_span)."
+        },
+        {
+          "anga": 3,
+          "name": "Uprightness and Sincerity of Heart",
+          "description": "Being completely honest, without deceit or hypocrisy; opening up one's true spiritual state to a teacher transparently[span_72](start_span)[span_72](end_span)."
+        },
+        {
+          "anga": 4,
+          "name": "Intense and Ardent Energy (Viriya)",
+          "description": "Exerting relentless, unflagging effort to eradicate unwholesome states (akusala) and fulfill wholesome states (kusala) until the poisons of defilements are exhausted[span_73](start_span)[span_73](end_span)."
+        },
+        {
+          "anga": 5,
+          "name": "Possession of Vipassana Insight",
+          "description": "The internal wisdom to penetratingly perceive the continuous arising and passing away of both one's own mental/physical aggregates and those of others; accessible to Tihetuka individuals[span_74](start_span)[span_74](end_span)."
+        }
+      ]
+    },
+    {
+      "heading": "6. Architectural Integration: The Seed Framework",
+      "seed_types": {
+        "seed_of_carana": {
+          "analogy": "Feet",
+          "components": "Practical conduct, morality (Sila), and concentration (Samadhi)[span_75](start_span)[span_75](end_span)",
+          "effect": "Gains opportunities to encounter the Buddha's Sasana, instructions, and noble mentors[span_76](start_span)[span_76](end_span)"
+        },
+        "seed_of_vijja": {
+          "analogy": "Eyes",
+          "components": "The perfection of wisdom and insight (Panna-parami)[span_77](start_span)[span_77](end_span)",
+          "effect": "Possesses the innate capability to penetratingly comprehend ultimate truth upon hearing the Dhamma[span_78](start_span)[span_78](end_span)"
+        }
+      },
+      "historical_system_failures": [
+        "Mahadhana and his wife: Possessed the Seed of Vijja but lacked the Seed of Carana, failing to attain the Dhamma[span_79](start_span)[span_79](end_span).",
+        "Saccaka the Ascetic: Possessed the Seed of Carana but was weak in the Seed of Vijja, preventing Dhamma attainment in that lifetime[span_80](start_span)[span_80](end_span)."
+      ],
+      "primary_vector_for_disciples": {
+        "core_requirement": "Vipassana-nana (Insight Knowledge)[span_81](start_span)[span_81](end_span)",
+        "critical_insight": "Even if an individual does not acquire other psychic-related branches of Vijja, a highly matured Vipassana-nana alone is entirely sufficient to deliver a Savaka to Nibbana[span_82](start_span)[span_82](end_span). It serves as the fundamental practice (Pubbayoga) required for gaining Analytical Insights (Patisambhida-nana)[span_83](start_span)[span_83](end_span)."
+      }
+    }
+  ]
+}
