@@ -1,4 +1,4 @@
-I think this can become one of your strongest lectures if it stays grounded in the Buddha's teachings and avoids overstating the comparison. A good framing is not "life is 🌿 SSISM Intel Sentinel Masterclass Lecture 12
+🌿 SSISM Intel Sentinel Masterclass Lecture 12
 
 "When 'DUM!' Is Too Late"
 
