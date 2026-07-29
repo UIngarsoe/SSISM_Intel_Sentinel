@@ -1,54 +1,70 @@
-🚀 SSISM INTEL | OFFICIAL RELEASE NOTE
-Release Version: v1.2.0-MEAL-REALTIME
-Project Name: Real-Time Information Management & MEAL Automation System
-System Module: system.sh (Deployment & Verification Engine)
-Author / Executive Editor: U Ingar Soe
-Repository Target: UIngarsoe/SSISM_Intel_Sentinel
-Release Date: July 29, 2026
+# 🚀 SSISM INTEL | OFFICIAL RELEASE NOTE
 
-📌 Release Summary
-This release introduces the End-to-End Complete Set-Up Real-Time Information Management System, designed to seamlessly bridge field-level data collection, serverless automation workflows, and live interactive reporting.
-By integrating mobile/web data submission with Google Apps Script automation and Looker Studio (Google Data Studio) dashboards, this architecture provides immediate, data-backed operational decision-making capabilities alongside automated MEAL (Monitoring, Evaluation, Accountability, and Learning) processing.
+| Metadata Field | Value |
+| :--- | :--- |
+| **Release Version** | `v1.2.0-MEAL-REALTIME` |
+| **Project Name** | Real-Time Information Management & MEAL Automation System |
+| **System Module** | `system.sh` *(Deployment & Verification Engine)* |
+| **Author / Executive Editor** | U Ingar Soe |
+| **Repository Target** | [`UIngarsoe/SSISM_Intel_Sentinel`](https://github.com/UIngarsoe/SSISM_Intel_Sentinel) |
+| **Release Date** | July 29, 2026 |
 
-🔥 Key System Features & Upgrades
+---
 
-* Interactive Dynamic Real-Time Dashboards (Looker Studio):
-   * Live streaming of field data from mobile apps, web applications, and form submissions.
-   * Dynamic filtering across temporal windows, MEAL indicators, and calculated risk scores (Z).
+## 📌 Release Summary
 
-* Customized Workflow Automation Engine (Apps Script):
-   * Instant Acknowledgment: Automatic response emails triggered on data receipt.
-   * Automated Document Generation: One-click generation and dispatch of official PDF receipts, invoices, certificates, and operational briefs.
-   * Scheduled Dispatch: Automated delivery of periodic customized executive summaries.
+This release introduces the **End-to-End Complete Set-Up Real-Time Information Management System**, engineered to seamlessly bridge field-level data collection, serverless automation workflows, and live interactive reporting.
 
-* AI Prompt Engineering Integration:
-   * Native Gemini API calls built directly into the Apps Script pipeline to summarize qualitative field inputs into concise risk metrics before storage.
- * Cryptographic Integrity & Public Ledger Anchoring:
-   * Full BASH automation script (system.sh) for workspace initialization, structure creation, and SHA-256 integrity verification.
+By integrating mobile/web data submission with **Google Apps Script** automation and **Looker Studio (Google Data Studio)** dashboards, this architecture delivers immediate, data-backed operational decision-making capabilities alongside automated **MEAL** *(Monitoring, Evaluation, Accountability, and Learning)* processing.
 
-🛡️ Cryptographic Verification Card & Audit Seal
-> AUTHENTICITY GUARANTEE: The verification seal below certifies that the release script and core architectural components have been executed, cryptographically hashed, and anchored to the public GitHub ledger.
-> 
+---
 
-🛡️ SSISM Verification Card & Public Audit Digest
-System Framework: SSISM INTEL SENTINEL
-Module: system.sh (Real-Time Information Management & MEAL Automation Engine)
-Author / Executive Editor: U Ingar Soe
-Repository Target: UIngarsoe/SSISM_Intel_Sentinel
-License: MIT Licensed Algorithm
-Verification Date: July 29, 2026
-🔑 SHA-256 Cryptographic Hash Digest
+## 🔥 Key System Features & Upgrades
+
+### 📊 Interactive Dynamic Real-Time Dashboards (Looker Studio)
+* **Live Ingestion:** Real-time streaming of field data from mobile apps, web applications, and Google Forms.
+* **Granular Filtering:** Dynamic slicing across temporal windows, MEAL indicators, and calculated risk scores ($Z$).
+
+### ⚡ Customized Workflow Automation Engine (Apps Script)
+* **Instant Acknowledgment:** Automated response emails triggered instantly on data receipt.
+* **Automated Document Generation:** One-click generation and dispatch of official PDF receipts, invoices, certificates, and operational briefs.
+* **Scheduled Dispatch:** Automated delivery of periodic, customized executive summaries directly to specified channels.
+
+### 🧠 AI Prompt Engineering Integration
+* **Native Gemini Integration:** Direct API calls embedded into the Apps Script pipeline to summarize qualitative field inputs into concise risk metrics prior to storage.
+
+### 🛡️ Cryptographic Integrity & Public Ledger Anchoring
+* **Automated Deployment Pipeline:** Full BASH automation script (`system.sh`) for workspace initialization, repository structure setup, and SHA-256 integrity verification.
+
+---
+
+## 🛡️ Cryptographic Verification Card & Audit Seal
+
+> ⚠️ **AUTHENTICITY GUARANTEE:** The verification seal below certifies that the release script and core architectural components have been executed, cryptographically hashed, and anchored to the public GitHub ledger.
+
+```text
+================================================================================
+                    SSISM PUBLIC AUDIT & VERIFICATION SEAL                     
+================================================================================
+System Framework    : SSISM INTEL SENTINEL
+Target Module       : system.sh (Real-Time Info Mgmt & MEAL Automation Engine)
+Author / Editor     : U Ingar Soe
+Repository Target   : UIngarsoe/SSISM_Intel_Sentinel
+License             : MIT Licensed Algorithm
+Verification Date   : July 29, 2026
+
+--------------------------------------------------------------------------------
+🔑 SHA-256 CRYPTOGRAPHIC HASH DIGEST:
 871a51487d5dbf0e1514b1f58eca2ec2651f7b29ae02d1772522e8c3901e144b
+--------------------------------------------------------------------------------
 
 📜 Verified File Metadata & Terminal Audit Log
- * Target File Path:
-   system.sh
+ * Target File Path: system.sh
  * Raw Execution Command:
-   curl -s "https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/6ce98f7bfdd1bd2f2ffe8e93bfe768b12f44d008/system.sh" | sha256sum
+   curl -s "[https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/6ce98f7bfdd1bd2f2ffe8e93bfe768b12f44d008/system.sh](https://raw.githubusercontent.com/UIngarsoe/SSISM_Intel_Sentinel/6ce98f7bfdd1bd2f2ffe8e93bfe768b12f44d008/system.sh)" | sha256sum
 
  * Git Commit Hash: 6ce98f7bfdd1bd2f2ffe8e93bfe768b12f44d008
  * Verification Status: MATCHED / VERIFIED
-
 🏛️ Epistemic Foundation & System Digest
 | Parameter | Operational Status & Value |
 |---|---|
@@ -60,8 +76,7 @@ Verification Date: July 29, 2026
 > Integrity Verification: PASS
 > Ledger Signature: EKAYANO_MAGGA_VERIFIED
 > 
-
-Shell Script (deploy_ssism_meal_system.sh)
+💻 System Source Code (system.sh)
 #!/bin/bash
 # ==============================================================================
 # SSISM INTEL | AUTOMATED GITHUB REPOSITORY PUSH & VERIFICATION SCRIPT
@@ -142,7 +157,7 @@ function onFormSubmitTrigger(e) {
 
 function analyzeWithGemini(textInput) {
   var apiKey = "YOUR_GEMINI_API_KEY";
-  var url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + apiKey;
+  var url = "[https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=)" + apiKey;
   
   var payload = {
     "contents": [{
@@ -201,4 +216,13 @@ echo "----------------------------------------------------------------------"
 
 echo "✅ ALL FILES READY FOR GITHUB PUSH."
 
-U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor OSINT Myanmar/Burma Civil Enlightenment Nodes Civil Intelligence Education Specialist MIT Licensed Algorithm July 2026.
+<p align="center">
+<b>U Ingar Soe</b>
+
+Executive Editor | SSISM Sentinel | Bamar Enlightenment Journal
+
+<i>OSINT Myanmar/Burma Civil Enlightenment Nodes • Civil Intelligence Education Specialist</i>
+
+<code>MIT Licensed Algorithm • July 2026</code>
+</p>
+
