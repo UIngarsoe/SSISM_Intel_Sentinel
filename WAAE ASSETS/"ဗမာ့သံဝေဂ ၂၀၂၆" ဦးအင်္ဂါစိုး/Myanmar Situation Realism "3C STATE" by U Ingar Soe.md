@@ -21,11 +21,11 @@ Here, behind the shimmering glass of upscale restaurants, the war outside does n
 
 If you listen to the owners of the capital’s most exclusive establishments, the economy is booming—at least for an audience of three.
 
- * The Enclave Triad: Commerce, liquidity, and high-level networking have retreated entirely into the 3C ecosystem (Yangon, Mandalay, Naypyidaw). Step outside these guarded perimeter zones, and you cross into an economic and security shadow.
+The Enclave Triad: Commerce, liquidity, and high-level networking have retreated entirely into the 3C ecosystem (Yangon, Mandalay, Naypyidaw). Step outside these guarded perimeter zones, and you cross into an economic and security shadow.
 
- * The Cost of Access: Maintaining proximity to power isn't cheap. Sifting through the upper echelons required a month-long investigative budget of 4,000,000 MMK—a modest fee to rub shoulders with the power-brokers, officials, and business elites who occupy every velvet booth in town.
+The Cost of Access: Maintaining proximity to power isn't cheap. Sifting through the upper echelons required a month-long investigative budget of 4,000,000 MMK—a modest fee to rub shoulders with the power-brokers, officials, and business elites who occupy every velvet booth in town.
 
- * Checkpoints as Infrastructure: Connecting these three urban islands is a highway system webbed with an ever-multiplying array of checkpoints. Pop-up barriers cling to strategic corners like digital-age beggars, extracting friction and capital from anyone daring to move between the enclaves.
+Checkpoints as Infrastructure: Connecting these three urban islands is a highway system webbed with an ever-multiplying array of checkpoints. Pop-up barriers cling to strategic corners like digital-age beggars, extracting friction and capital from anyone daring to move between the enclaves.
 
 
 ## THE SENSORY WALL: DINING AT THE END OF HISTORY
@@ -38,10 +38,10 @@ It is a grand exercise in sensory editing. The elite don't talk about the periph
 
 If ancient Burmese sages were to draft a modern chronicle, it might read like a dark comedy for the digital age:
 
-> As the village burned to ash from the northern hills to the southern delta, the grand lords gathered in the three remaining jade-walled pavilions.
->
-> They drank imported spirits, praised the stability of their wine cellars, and marveled at how wonderfully full their banquet tables remained. Outside the gates, every tree along the road sprouted a toll-collector, yet inside the hall, the only crisis debated was whether the imported caviar was fresh enough.
-> 
+As the village burned to ash from the northern hills to the southern delta, the grand lords gathered in the three remaining jade-walled pavilions.
+
+They drank imported spirits, praised the stability of their wine cellars, and marveled at how wonderfully full their banquet tables remained. Outside the gates, every tree along the road sprouted a toll-collector, yet inside the hall, the only crisis debated was whether the imported caviar was fresh enough.
+
 ## CONCLUSION & STRATEGIC TAKEAWAY
 
 The ultimate irony of Myanmar’s 2026 political economy is not just that inequality exists, but that it has been meticulously curated into three air-conditioned bubbles. 
@@ -70,22 +70,26 @@ CLASSIFICATION: LEVEL-4 STRATEGIC BRIEFING
 
 ယခုခေတ်ကာလ မြန်မာပြည်၏ အခြေအနေကား ဤပုံပြင်နှင့် ထပ်တူကျလှပေတော့သည်။
 
- * သုံးမြို့စက်ဝန်း (The 3C Enclave): တစ်နိုင်ငံလုံး ကျယ်ပြန့်လှသော်လည်း စီးပွားလာဘ်လာဘ ရွှင်လန်းကာ လူသူစည်ကားလျက်၊ အဆင့်မြင့်စားသောက်ဆိုင်ကြီးများတွင် သူဌေးသူကြွယ်၊ အာဏာရှိသူနှင့် တာဝန်ကြီးသူတို့ စုပြုံကာ ကျပ်သိန်းချီ အကုန်အခံခံလျက် ပျော်ပါးနေကြသည်မှာ ရန်ကုန်၊ မန္တလေးနှင့် နေပြည်တော် ဟူသော မြို့ကြီးသုံးမြို့သာလျှင် ရှိတော့သည်။
+### သုံးမြို့စက်ဝန်း (The 3C Enclave)
 
- * တောင်းစားသလို ပေါ်ထွက်လာသော ဂိတ်ကြေးများ: ဤမြို့ကြီးသုံးမြို့သို့ သွယ်တန်းရာ ခရီးလမ်းမကြီးများပေါ်တွင်ကား မဟာဗျူဟာကျသည့် ထောင့်တိုင်း၌ စစ်ဆေးရေးဂိတ်ဟူသမျှသည် လမ်းဘေးတောင်းစားသူများပမာ နေရာအနှံ့ အပြုံလိုက် ပေါ်ထွက်လာကာ လမ်းစရိတ်၊ ကုန်စရိတ်တို့ကို တစ်လလျှင် ကျပ်သိန်းပေါင်းများစွာ အကုန်အခံခံကာ ရုန်းကန်သွားလာနေကြရသည်။
+တစ်နိုင်ငံလုံး ကျယ်ပြန့်လှသော်လည်း စီးပွားလာဘ်လာဘ ရွှင်လန်းကာ လူသူစည်ကားလျက်၊ အဆင့်မြင့်စားသောက်ဆိုင်ကြီးများတွင် သူဌေးသူကြွယ်၊ အာဏာရှိသူနှင့် တာဝန်ကြီးသူတို့ စုပြုံကာ ကျပ်သိန်းချီ အကုန်အခံခံလျက် ပျော်ပါးနေကြသည်မှာ ရန်ကုန်၊ မန္တလေးနှင့် နေပြည်တော် ဟူသော မြို့ကြီးသုံးမြို့သာလျှင် ရှိတော့သည်။
 
- ## * စစ်ပွဲကင်းစင်ရာ မာယာ ၃ မြို့
- *
-###  * မြို့ကြီးသုံးမြို့၏ အလယ်၊ အဆင့်မြင့် မီးရောင်စုံအောက်တွင်မူ ပြင်ပတောတောင် ရပ်ရွာများ၌ ဖြစ်ပျက်နေသော စစ်ဘေးစစ်ဒဏ်၊ ဆင်းရဲမွဲတေမှု အငွေ့အသက်ဟူသမျှ လုံးဝကင်းစင်နေသယောင် ထင်မှတ်ရ၏။
- *
-###  * လူတို့သည် အပြင်လောက၏ ကြမ်းတမ်းမှုကို တစ်ခွန်းတစ်ပါမျှ မပြောဆိုကြတော့ဘဲ အာဏာနှင့် ငွေကြေးရှိသူတို့အချင်းချင်း သက်တောင့်သက်သာ စားသောက်နေကြခြင်းက ဤခေတ်၏ အကြီးမားဆုံးသော သံဝေဂပင်တည်း။
+### တောင်းစားသလို ပေါ်ထွက်လာသော ဂိတ်ကြေးများ
+
+ဤမြို့ကြီးသုံးမြို့သို့ သွယ်တန်းရာ ခရီးလမ်းမကြီးများပေါ်တွင်ကား မဟာဗျူဟာကျသည့် ထောင့်တိုင်း၌ စစ်ဆေးရေးဂိတ်ဟူသမျှသည် လမ်းဘေးတောင်းစားသူများပမာ နေရာအနှံ့ အပြုံလိုက် ပေါ်ထွက်လာကာ လမ်းစရိတ်၊ ကုန်စရိတ်တို့ကို တစ်လလျှင် ကျပ်သိန်းပေါင်းများစွာ အကုန်အခံခံကာ ရုန်းကန်သွားလာနေကြရသည်။
+
+ ## စစ်ပွဲကင်းစင်ရာ မာယာ ၃ မြို့
+ 
+### မြို့ကြီးသုံးမြို့၏ အလယ်၊ အဆင့်မြင့် မီးရောင်စုံအောက်တွင်မူ ပြင်ပတောတောင် ရပ်ရွာများ၌ ဖြစ်ပျက်နေသော စစ်ဘေးစစ်ဒဏ်၊ ဆင်းရဲမွဲတေမှု အငွေ့အသက်ဟူသမျှ လုံးဝကင်းစင်နေသယောင် ထင်မှတ်ရ၏။
+ 
+### လူတို့သည် အပြင်လောက၏ ကြမ်းတမ်းမှုကို တစ်ခွန်းတစ်ပါမျှ မပြောဆိုကြတော့ဘဲ အာဏာနှင့် ငွေကြေးရှိသူတို့အချင်းချင်း သက်တောင့်သက်သာ စားသောက်နေကြခြင်းက ဤခေတ်၏ အကြီးမားဆုံးသော သံဝေဂပင်တည်း။
 
 
 ## ၃။ ပညာရှိ အဆုံးအမ (Cosmetics & Intelligence Synthesis)
 
 ရှေးစာပေ အလှအပ (Cosmetics) နည်းပညာဖြင့် ဖုံးကွယ်ထားအပ်သော ဤထောက်လှမ်းရေး အချက်အလက်၏ အနှစ်သာရမှာ ရှင်းလှပေသည်။
 
-### > "အပြင်လောက မီးလောင်နေချိန်၊ အတွင်းမြို့ပြ ကမ္ဘာငယ်သုံးခု၌ကား သာယာယိမ်းနွဲ့မှုဖြင့် သတိလက်လွတ် မေ့လျော့နေကြ၏။ သို့သော် ဤရွှေရောင်အထည်လွှာအောက်တွင် သွားလာရေး အတားအဆီးနှင့် ကုန်ကျစရိတ်များက ဖိစီးလျက်ရှိရာ၊ ဤသည်ပင်လျှင် လက်ရှိ မက်ခရိုစီးပွားရေးနှင့် လူမှုရေး ကွဲပြားမှုကြီး၏ အထင်ရှားဆုံး သက်သေတည်း။"
+### "အပြင်လောက မီးလောင်နေချိန်၊ အတွင်းမြို့ပြ ကမ္ဘာငယ်သုံးခု၌ကား သာယာယိမ်းနွဲ့မှုဖြင့် သတိလက်လွတ် မေ့လျော့နေကြ၏။ သို့သော် ဤရွှေရောင်အထည်လွှာအောက်တွင် သွားလာရေး အတားအဆီးနှင့် ကုန်ကျစရိတ်များက ဖိစီးလျက်ရှိရာ၊ ဤသည်ပင်လျှင် လက်ရှိ မက်ခရိုစီးပွားရေးနှင့် လူမှုရေး ကွဲပြားမှုကြီး၏ အထင်ရှားဆုံး သက်သေတည်း။"
 > 
 ## ဤသည်ကား ဗမာ့သံဝေဂ ၂၀၂၆ ၏ မှတ်တမ်းပင်တည်း။
 
