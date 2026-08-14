@@ -52,7 +52,8 @@ The 3C State is a monument to elite compartmentalization—a place where you can
 [SSISM-V ENGINE // VIGILANCE DOSSIER]
 CLASSIFICATION: LEVEL-4 STRATEGIC BRIEFING
 
-# ဗမာ့ သံဝေဂ ၂၀၂၆ — "မြို့ကြီးသုံးမြို့၏ ကြေးမုံပြင်" 
+# ဗမာ့ သံဝေဂ ၂၀၂၆ 
+## "မြို့ကြီးသုံးမြို့၏ ကြေးမုံပြင်" 
 ### ဦးအင်္ဂါ ရေးသည်။
 
 ## ၁။ နိဒါန်းအစ ပညာရှိစကား
