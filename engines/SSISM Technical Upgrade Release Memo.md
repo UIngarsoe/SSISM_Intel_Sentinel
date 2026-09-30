@@ -132,4 +132,4 @@ SSISM Intel Engine ကို လူထုအသိဉာဏ်တော် (Civi
 လိုင်စင်: MIT License
 
 
-### U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor MIT Licensed Algorithm October 2026.
+U Ingar Soe SSISM Sentinel Bamar Enlightenment Journal Executive Editor MIT Licensed Algorithm October 2026.
