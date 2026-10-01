@@ -1,4 +1,4 @@
-# Stage 5: Civic Intelligence Report – Commodity Price Inflation & Social Reality Synthesizer
+# 🦚🥷🤺 Stage 5: Civic Intelligence Report – Commodity Price Inflation & Social Reality Synthesizer
 ## Executive Overview
 This report presents the finalized **Stage 5 Framework** evaluating real-world economic dynamics, commodity price surges, and social media discourse in Myanmar. 
 While public digital spaces exhibit political debate, multi-factional online dialogue demonstrates a **100% convergence** on the physical realities of daily survival: unprecedented price hikes for essential goods create an unprecedented chronic burden affecting all population segments equally.
